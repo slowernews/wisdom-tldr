@@ -595,17 +595,8 @@ Most books are propaganda. Don’t read books made to make money; read the ones 
 47. Annie Dillard has said that day by day you have to give the work before you all teh best stuff you have, not saving up for later projects. If you give freely, there will always be more.
 49. becoming a writer is about becoming conscious.
 50. you can either set a brick as a laborer or as an artist.
--->
-
-> *"I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of."  
--- Joss Whedon [1964]*
-
-If you have lived a diverse life, you’ll have a lot to say.
-
-If you are writing to be read, you are doing it wrongly. Write to learn, not to teach.
 
 Hints on emails:
-
 - Make the subject unique, meaningful, and easily searchable.
 - Make a single, specific, simple request — one that’s hard to say no to — in the first line, then explain if needed. The reader should be able to reply in one word, forward it, or delete it. Be specific. Examples:
 	- «Do you have time for a 5-min call this week?»
@@ -615,6 +606,14 @@ Hints on emails:
 	- «I’d love a letter of support from you. I’ve attached a draft for your review.»
 - Keep it under three lines; more than this call.
 - Use easy-to-read formatting: font 12/14, bold, underline, and ALL CAPS for the MAIN QUESTION, IMPORTANT DATES, and other KEY DETAILS.
+-->
+
+> *"I write to give myself strength. I write to be the characters that I am not. I write to explore all the things I’m afraid of."  
+-- Joss Whedon [1964]*
+
+If you have lived a diverse life, you’ll have a lot to say.
+
+If you are writing to be read, you are doing it wrongly. Write to learn, not to teach.
 
 > *"The pen is the tongue of the mind."  
 -- Miguel de Cervantes [1547]*

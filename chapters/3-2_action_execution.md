@@ -1,6 +1,6 @@
 # 3.2 - On executing
 
-## On starting and timing
+## On starting
 
 <!--
 > *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can’t finish until you start, so get good at starting."*
@@ -396,6 +396,9 @@ Risk is everything you left over and didn’t thought about.
 > *"People who don’t take risks generally make about two big mistakes a year. People who do take risks generally make about two big mistakes a year."  
 -- Peter Drucker [1909]*
 
+> *"Lots of folks confuse bad management with destiny."  
+-- Frank Hubbard [1920]*
+
 > *"Opportunity dances with those on the dance floor."  
 -- H. Jackson Brown Jr. [1940]*
 
@@ -643,7 +646,7 @@ It’s scary to make those direction choices but fear is a great road sign."
 > *"It is much easier to change how you think by changing your behavior, than it is to change your behavior by changing how you think. Act out the change you seek."  
 -- Kevin Kelly [1952]*
 
-There are limits to change: willpower is finite and requires attention. But in complex systems, small changes can trigger large effects.
+There are limits to change: willpower and attention are finite. But in complex systems, small changes can trigger large effects.
 
 > *"The secret of change is to focus all your energy, not on fighting the old, but on building the new."  
 -- Socrates [-470]*

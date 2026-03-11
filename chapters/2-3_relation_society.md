@@ -147,6 +147,9 @@ The opposite of corruption is patriotism. To reduce corruption, diminish people 
 > *"A politician divides mankind into two classes: tools and enemies."  
 -- Friedrich Nietzsche [1844]* 
 
+> *"Politicians and diapers must be changed often, and for the same reason."  
+-- Eça de Queirós [1845]*
+
 > *"The urge to save humanity is almost always a false front for the urge to rule it." (...)  
 "Every decent man is ashamed of the government he lives under."  
 -- H.L. Mencken [1880]*
@@ -208,7 +211,7 @@ Bureaucracy blocks low-probability events at the cost of imposing more complianc
 > *"If I fully destroy the corruption, they will kill me."  
 -- Elon Musk [1971]*
 
-> *"Bureaucracy = Culture of submission. Innovation = Culture of subversion. Hence the antagonism."  
+> *"Bureaucracy = culture of submission. Innovation = culture of subversion. Hence the antagonism."  
 -- x@rapahelz*
 
 ### On nations and immigration
@@ -426,7 +429,7 @@ Inequality is a problem. Equality is not the solution. That’s the dilemma. Wok
 "I have never understood why it is «greed» to want to keep the money you have earned but not greed to want to take somebody else’s money."  
 -- Thomas Sowell [1930]*
 
-> *"I don’t want a Black History Month. Black history is American history. How are we going to get rid of racism? Stop talking about it!"  
+> *"I don’t want a Black History month. Black History is American History. How are we going to get rid of racism? Stop talking about it!"  
 -- Morgan Freeman [1937]*
 
 > *"The axiomatic error undermining much of Western Civilization is «weak makes right». If someone accepts, explicitly or implicitly, that the oppressed are always the good guys, then the natural conclusion is that the strong are the bad guys."  
@@ -548,7 +551,8 @@ Most people are other people, their thoughts are someone else’s opinions, and 
 > *"A fool contributes nothing worth hearing and takes offense at everything."  
 -- Aristotle [-384]*
 
-> *"The less talent they have, the more pride, vanity and arrogance they have. All these fools, however, find other fools who applaud them."  -- Desiderius Erasmus [1466]*
+> *"The less talent they have, the more pride, vanity and arrogance they have. All these fools, however, find other fools who applaud them."  
+-- Desiderius Erasmus [1466]*
 
 > *"No snowflake in an avalanche ever feels responsible."  
 -- Voltaire [1694]*
@@ -1367,9 +1371,7 @@ Most people with good taste are young and poor. Creators don’t separate from t
 > *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."  
 -- Antoine de Saint Exupery [1900]*
 
-People don’t want «art», they want entertainment.
-
-The more «art» you allow in, the less commercial success you’ll have.
+People don’t want «art», they want entertainment. The more «art» you allow in, the less commercial success you’ll have.
 
 > *"There is no exquisite beauty without some strangeness in the proportion."  
 -- Edgar Allan Poe [1809]*

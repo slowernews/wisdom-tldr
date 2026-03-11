@@ -120,7 +120,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 *2.2 - On competition*
 - [On hierarchy](/chapters/2-2_relation_competition.md#on-hierarchy)
-- [On opponents and allies](/chapters/2-2_relation_competition.md#on-opponents-and-allies)
+- [On opponents](/chapters/2-2_relation_competition.md#on-opponents)
 	- [On allies](/chapters/2-2_relation_competition.md#on-allies)
 	- [On heroes](/chapters/2-2_relation_competition.md#on-heroes)
 - [On conflicts](/chapters/2-2_relation_competition.md#on-conflicts)
@@ -183,7 +183,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 	- [On mental models](/chapters/3-1_action_preparation.md#on-mental-models)
 
 *3.2 - On execution*
-- [On starting and timing](/chapters/3-2_action_execution.md#on-starting-and-timing)
+- [On starting](/chapters/3-2_action_execution.md#on-starting)
 	- [On timing and patience](/chapters/3-2_action_execution.md#on-timing-and-patience)
 - [On speed and direction](/chapters/3-2_action_execution.md#on-speed-and-direction)
 - [On focus and priorities](/chapters/3-2_action_execution.md#on-focus-and-priorities)

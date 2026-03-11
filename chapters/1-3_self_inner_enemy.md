@@ -1085,7 +1085,7 @@ Aging implies wear and tear, often seen as a high price for maturity. After a ce
 -- Bruno Munari [1907]*
 
 > *"Youth is a gift of nature, but age is a work of art."  
--- Stanisław Jerzy Lec [1909]*
+-- Stanisław J. Lec [1909]*
 
 > *"My life was sharply divided in two halves. In the first half, I was always the youngest in the group; in the second half, I was always the oldest. There was no transitional period."  
 -- Stanisław Ulam [1909]*
@@ -1111,11 +1111,9 @@ Aging implies wear and tear, often seen as a high price for maturity. After a ce
 > *"The foundation of maturity: just because it’s not your fault doesn’t mean it’s not your responsibility."  
 -- Kevin Kelly [1952]*
 
-The advantage of aging is that you become more decisive.
+Maturing is realizing many things don’t need your comments.
 
-Maturing is realizing many things don’t need your comments. Maturity is when you stop forcing people to choose you and stop feeling you have to take care of the world. Young people have energy to argue over every minor difference or slight. But with age, and wisdom, you just don’t care. You pick your battles. You assess the value of conflict. If the payoff for winning doesn’t exceed the effort required to win, you simply don’t bother.
-
-At twenty, you think you have the whole world figured out, then with every passing year, you become more humble, you stop jumping to conclusions, you stop judging people you actually don’t know. As you get older, you want to simplify your life: family and friends with no drama, nutritional and exercising habits with no health risk, a neighborhood with no worry about public safety and cleanliness, time online with no anger and outrage. A simple, but better life.
+Maturity is when you stop forcing people to choose you and stop feeling you have to take care of the world. Young people have energy to argue over every minor difference or slight. But with age, and wisdom, you just don’t care. You pick your battles. You assess the value of conflict. If the payoff for winning doesn’t exceed the effort required to win, you simply don’t bother. At twenty, you think you have the whole world figured out, then with every passing year, you become more humble, you stop jumping to conclusions, you stop judging people you actually don’t know. As you get older, you want to simplify your life: family and friends with no drama, nutritional and exercising habits with no health risk, a neighborhood with no worry about public safety and cleanliness, time online with no anger and outrage. A simple, but better life. The advantage of aging is that you become more decisive.
 
 > *"The youth can walk faster but the elder knows the road."  
 -- vox populi*
@@ -1175,6 +1173,9 @@ A person who is okay with being alone is a powerful person.
 
 > *"If you are afraid of loneliness, don’t marry."  
 -- Anton Chekhov [1860]*
+
+> *"Solitude is for me a fount of healing which makes my life worth living. Talking is often a torment for me, and I need many days of silence to recover from the futility of words."  
+-- Carl Jung [1875]*
 
 > *It is astonishing what foolish things one can temporarily believe if one thinks too long alone."  
 -- John Maynard Keynes [1883]*

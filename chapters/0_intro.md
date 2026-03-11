@@ -1,4 +1,4 @@
-# 0 - Introduction
+# Introduction
 
 ## On the purpose of life
 
@@ -166,7 +166,7 @@ Cancel your pity party, no one is coming to save you. Take total ownership of ev
 -- Carl Jung [1875]*
 
 > *"Perhaps you’re a slave to your own idea of yourself."  
--- D.W. Lawrence [1885]*
+-- D.H. Lawrence [1885]*
 
 > *"When a person can’t find a deep sense of meaning, they distract themselves with pleasure."  
 -- Victor Frankl [1905]*

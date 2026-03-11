@@ -713,7 +713,7 @@ To lead, act with confidence, others will sense the energy and fall in line. No 
 > *"Vision is the art of seeing things invisible."  
 -- Jonathan Swift [1667]*
 
-Vision without action is a daydream. Action with without vision is a nightmare.
+Vision without action is a daydream. Action without vision is a nightmare.
 
 > *"If I have seen farther than others, it is because I was standing on the shoulders of giants."  
 -- Isaac Newton [1642]*
@@ -766,9 +766,6 @@ Instead of generalizing that «management is useless», say «bad management is 
 "My greatest strength as a consultant is to be ignorant and ask a few questions." (...)  
 "No institution can possibly survive if it needs geniuses or supermen to manage it. It must be organized in such a way as to be able to get along under a leadership composed of average human beings."  
 -- Peter Drucker [1909]*
-
-> *"Lots of folks confuse bad management with destiny."  
--- Frank Hubbard [1920]*
 
 > *"The manager asks how and when; the leader asks what and why."  
 -- Warren Bennis [1925]*
@@ -1171,7 +1168,7 @@ Hints:
 > *"Learn to sell. Learn to build. If you can do both, you’re unstoppable."  
 -- Naval Ravikant [1974]*
 
-Nobody can compete with you on being you. Most of your life is a search for who and what needs you the most.
+Most of your life is a search for who and what needs you the most. Nobody can compete with you on being you.
 
 Become the best at one specific thing or very good at two or more things. Happy, smart, and useful. Work smart (not just harder but hard still). It’s good to be better, but better to be different. Deliver more value than expected. You don’t advance or earn more by staying in the same seat. 
 
@@ -1280,7 +1277,9 @@ He who works with his hands and his head and his heart is an artist."
 
 Trial most candidates but hire only likable people who «get sh\*t done».
 
-_How to attract and keep talented people?_ Respect them, and you’ll never respect them if you don’t reward them accordingly. Use «golden handcuffs»: offer hires the ability to earn as much as they want, provided they generate even more income for you. People usually leave managers, not companies. Smart people won’t work extremely hard just for money. Good employees are hard to find. It takes real chutzpah to expect someone to do your work for insufficient pay while you profit heavily. Asking for a raise: Don’t get discouraged by a «no». Thank them, then ask: «What specific outcomes would be required to receive this raise within the next 3–6 months?» If they can’t answer, consider finding another employer. You hire them because they know their job better than you. If you could do it, you wouldn’t need them. Experience is overrated—hire for aptitude, train for skills. Great things are often done by people doing them for the first time. Your goal should be to «fire» yourself by hiring people better at your job than you are. Leaders must master finding and hiring talent. Good interview questions:
+_How to attract or keep talented people?_ Respect them. You’ll never respect them if you don’t reward them accordingly. Use «golden handcuffs»: offer hires the ability to earn as much as they want, provided they generate even more income for you. People usually leave managers, not companies. Smart people won’t work extremely hard just for money. Good employees are hard to find. It takes real chutzpah to expect someone to do your work for insufficient pay while you profit heavily. Your goal should be to «fire» yourself by hiring people better at your job than you are. Leaders must master finding and hiring talent.
+
+_Hints:_
 
 	- «Problems you’ve solved and how?» (Elon Musk)
 	- «What did you get done this week?» (Elon Musk)
@@ -1289,7 +1288,7 @@ _How to attract and keep talented people?_ Respect them, and you’ll never resp
 	- «Show me your calendar» (reveals implementers; Codie Sanchez)
 	- «How would you solve this X problem I have right now?» (detects fast thinkers; Codie Sanchez)
 
-_There are two skill levels: still learning or confident._ Your resume should explain why you’re more valuable to the company than the next candidate. Show this through your experience. Don’t just list responsibilities—highlight how you accomplished them better than others. Example: Everyone sells cars, but you sold more than anyone else in the dealership for six months last year. That’s who gets hired. How to know your strenghts? Ask employers why they invited you for an interview — they will describe your strengths. When applying for a job_, be more consultant than applicant. Don’t do interviews, have discussions. Employers seek people they like, that’s «culture fit». It’s often less about skill and more about likability while being sufficiently good. Go in with a story. Interviewers want to know if they can spend eight hours a day with you. People like people like themselves. Companies hire to solve specific problems, not general optimizations—even if they need generalists. Growing companies are always hiring. Job search is numbers and quality: control applications and skills/portfolio strength. Decide your time’s worth in advance. Don’t let others dictate your pay—they make offers, but it’s your decision. You’re not paid what you’re worth—you’re paid what you negotiate. When you sell results, nobody asks about your skillset. When you sell time, you must fit a predefined role someone already knows they need. Rich people get paid by project and pay by the hour. The boss wants the most sophisticated talent for the least pay. Every penny spent and every second of your life not claimed is a failure in his eyes.
+_Two skill levels: still learning or confident._ Your resume should explain why you’re more valuable to the company than the next candidate. Show this through your experience. Don’t just list responsibilities—highlight how you accomplished them better than others. Example: Everyone sells cars, but you sold more than anyone else in the dealership for six months last year. That’s who gets hired. How to know your strenghts? Ask employers why they invited you for an interview — they will describe your strengths. When applying for a job, be more consultant than applicant. Don’t do interviews, have discussions. Employers seek people they like, that’s «culture fit». It’s often less about skill and more about likability while being sufficiently good. Go in with a story. Interviewers want to know if they can spend eight hours a day with you. People like people like themselves. Companies hire to solve specific problems, not general optimizations, even if they need generalists. Growing companies are always hiring. Job search is numbers and quality: control applications and skills/portfolio strength. Decide your time’s worth in advance. Don’t let others dictate your pay—they make offers, but it’s your decision. You’re not paid what you’re worth—you’re paid what you negotiate. When you sell results, nobody asks about your skillset. When you sell time, you must fit a predefined role someone already knows they need. Rich people get paid by project and pay by the hour. The boss wants the most sophisticated talent for the least pay. Every penny spent and every second of your life not claimed is a failure in his eyes. Asking for a raise: Don’t get discouraged by a «no». Thank them, then ask: «What specific outcomes would be required to receive this raise within the next 3–6 months?» If they can’t answer, consider finding another employer. You hire them because they know their job better than you. If you could do it, you wouldn’t need them. Experience is overrated—hire for aptitude, train for skills. Great things are often done by people doing them for the first time.
 
 > *"I am looking for a lot of people who have an infinite capacity to not know what can’t be done."  
 -- Henry Ford [1863]*
@@ -1432,7 +1431,7 @@ Be independent from your family but loyal at the same time. Keep friends for fri
 > *"Friendships last when each friend thinks he has a slight superiority over the other."  
 -- Honoré De Balzac [1799]*
 
-> *"The only way to have a friend is to be one." 
+> *"The only way to have a friend is to be one."  
 -- Ralph Waldo Emerson [1803]*
 
 > *"To lose one parent may be regarded as a misfortune; to lose both looks like carelessness." (...)  
@@ -1632,7 +1631,7 @@ On falling out of love: First you see the virtues. Then the flaws. For a long an
 "Intimacy is a flower — it blooms in a healthy relationship, and disappears in a sick one." (...)  
 "There are three qualities to look for in a partner: intelligence, energy, and integrity. You need all three. You can’t compromise on any one of them." (...)  
 "If you ask someone why they’re with someone else and the answer sounds like a resume, it’s over." (...)  
-"True, unconditional love is the province of parents and saints."
+"True, unconditional love is the province of parents and saints."  
 -- Naval Ravikant [1974]*
 
 > *"You haven’t been in love, if you haven’t let it ruin your life."  
