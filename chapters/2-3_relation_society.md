@@ -223,7 +223,7 @@ The real diversity is the diversity of ideas, not skin color.
 
 The moment you cross a second border, you are an economic migrant, not a refugee. Multicultural is by absurdum the true monocultural.
 
-> *"the disappearance of nations would have impoverished us no less than if all men had become alike, with one personality and one face. Nations are the wealth of mankind, its collective personalities; the very least of them wears its own special colours and bears within itself a special facet of divine intention."  
+> *"The disappearance of nations would have impoverished us no less than if all men had become alike, with one personality and one face. Nations are the wealth of mankind, its collective personalities; the very least of them wears its own special colours and bears within itself a special facet of divine intention."  
 -- Aleksandr Solzhenitsyn [1918]*
 
 > *"What «multiculturalism» boils down to is that you can praise any culture in the world except Western culture — and you cannot blame any culture in the world except Western culture." (...)  
@@ -965,6 +965,9 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 > *"Here the ways of men part: if you wish to strive for peace of soul and pleasure, then believe; if you wish to be a devotee of truth, then inquire."  
 -- Friedrich Nietzsche [1844]* 
 
+> *"Religion is like a blind man looking in a black room for a black cat that isn't there, and finding it."  
+-- Oscar Wilde [1854]*
+
 > *"God has no religion."  
 -- Mahatma Gandhi [1869]*
 
@@ -989,6 +992,9 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 > *"There is something irremediably sad at an atheist’s funeral." (...)  
 "Those who think religion is about belief don’t understand religion, and don’t understand belief."  
 -- Nassim Taleb [1960]*
+
+> *"Religions exist because people would rather have a wrong answer than no answer at all."  
+-- Chuck Palahniuk [1962]*
 
 > *"Believe in the religion that has no name." (...)  
 "Modern society will shame you for earning money, shame you for being happy, shame you for being raised well, shame you for having children and ultimately shame you for existing. It isn’t just religion that controls you by declaring you a sinner." (...)  
@@ -1113,6 +1119,9 @@ Science transforms raw materials (resources) into civilization. Technology is ap
 
 > *"The laws of nature are written by the hand of God in the language of mathematics."  
 -- Galileo Galilei [1564]*
+
+> *"What we know is a drop, what we don’t know is a ocean."  
+-- Isaac Newton [1642]*
 
 > *"Science advances one funeral at a time."  
 -- Max Planck [1858]*
@@ -1400,3 +1409,6 @@ People don’t want «art», they want entertainment. The more «art» you allow
 -- Dieter Rams [1932]*
 
 Art is a meditation; design is a negotiation.
+
+> *"Society needs a good image of itself. That is the job of the architect."  
+-- Walter Gropius []*

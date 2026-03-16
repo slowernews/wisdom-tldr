@@ -73,6 +73,9 @@ Truly happy people stay quiet and private. Busy people are happier, they have no
 > *"Action may not always bring happiness, but there is no happiness without action."  
 -- Benjamin Disraeli [1804]*
 
+> *"The fact that a believer is happier than skeptic is no more than the fact that a drunken man is happier than a sober one. The happiness of credulity is a cheap and dangerous quality."  
+-- George Bernard Shaw [1856]*
+
 > *"Happiness is not a goal, it’s a byproduct."  
 -- Eleanor Roosevelt [1884]*
 
@@ -284,7 +287,8 @@ _Fear is your guide._ The more fear you feel, the more you know you’re on the 
 > *"Had I not created my whole world, I would certainly have died in other people’s."  
 -- Anais Nin [1903]*
 
-> *"The cave you fear to enter, holds the treasure you seek."  
+> *"The cave you fear to enter, holds the treasure you seek." (...)  
+"We must be willing to let go of the life we planned so as to have the life that is waiting for us."  
 -- Joseph Campbell [1904]*
 
 > *"The question is not who is going to let me; it’s who is going to stop me."  

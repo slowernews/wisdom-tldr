@@ -41,6 +41,9 @@ Life becomes easy when you recognize recurring patterns.
 > *"If past history was all there was about the game, the richest people would be librarians."  
 -- Warren Buffett [1930]*
 
+> *"How can I begin anything new with all of yesterday in me?" \
+-- Leonard Cohen [1934]*
+
 > *"Don’t bother fighting the old; just build the new."  
 -- Kevin Kelly [1952]*
 
@@ -59,11 +62,11 @@ Life becomes easy when you recognize recurring patterns.
 > *"If a journalist can have a hidden agenda, imagine a historian."  
 -- x@rapahelz*
 
-### On memory
+### On memory and tradition
 
 <!--
-#q["The past is never where you think you left it." -- Katherine Anne Porter $  1890  $]
-#q["Memory is the diary that we all carry about with us." -- Oscar Wilde $  1854  $]
+#q["The past is never where you think you left it." -- Katherine Anne Porter [1890]
+#q["Memory is the diary that we all carry about with us." -- Oscar Wilde [1854]
 -->
 
 > *"Memory is never a precise duplicate of the original; instead, it is a continuing act of creation."  
@@ -81,6 +84,9 @@ However, you can’t start a new chapter if you keep re-reading the last one. Th
 
 > *"When I was younger, I could remember anything, whether it had happened or not; but my faculties are decaying now and soon I shall be so I cannot remember any but the things that never happened. It is sad to go to pieces like this but we all have to do it."  
 -- Mark Twain [1835]*
+
+> *"Tradition is not to preserve the ashes, but to pass on the fire."  
+-- Gustav Mahler [1860]*
 
 > *"You never know the value of a moment until it becomes a memory."  
 -- Georges Duhamel [1884]*
@@ -100,6 +106,9 @@ However, you can’t start a new chapter if you keep re-reading the last one. Th
 > *"We look at the world once, in childhood. The rest is memory."  
 -- Louise Gluck [1943]*
 
+> *"Traditions are answers that have been discovered to enduring questions."  
+-- (sir) Roger Scruton [1944]*
+
 > *"This moment will just be another story someday."  
 -- Stephen Chbosky [1970]*
 
@@ -117,14 +126,6 @@ However, you can’t start a new chapter if you keep re-reading the last one. Th
 
 > *"Keep in mind that people change, but the past doesn’t."  
 -- Becca Fitzpatrick [1979]*
-
-### On tradition
-
-> *"Tradition is not to preserve the ashes, but to pass on the fire."  
--- Gustav Mahler [1860]*
-
-> *"Traditions are answers that have been discovered to enduring questions."  
--- (sir) Roger Scruton [1944]*
 
 
 
@@ -226,13 +227,36 @@ An ambitious goal sets the bar so high that even failure can feel like success b
 > *"Every expert has a past. Every creator has a future."  
 -- x@rapahelz*
 
-### On dreams
+### On vision
+
+> *"Vision is the art of seeing things invisible."  
+-- Jonathan Swift [1667]*
+
+Vision without action is a daydream. Action without vision is a nightmare.
+
+> *"Do not disturb yourself by imagining your whole life at once."  
+-- Marcus Aurelius [0121]*
+
+> *"If I have seen farther than others, it is because I was standing on the shoulders of giants."  
+-- Isaac Newton [1642]*
+
+> *"To accomplish great things we must dream as well as act."  
+-- Anatole France [1844]*
+
+> *"Vision without execution is hallucination."  
+-- Thomas Edison [1847]*
 
 > *"I dream my painting and I paint my dream."  
 -- Vincent Van Gogh [1853]*
 
 > *"The best way to make your dreams come true is to wake up."  
 -- Paul Valery [1871]*
+
+> *"Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside awakens."  
+-- Carl Jung [1875]*
+
+> *"Societies in decline have no use for visionaries."  
+-- Anais Nin [1903]*
 
 > *"Dreams are illustrations from the book your soul is writing about you."  
 -- Marsha Norman [1947]*

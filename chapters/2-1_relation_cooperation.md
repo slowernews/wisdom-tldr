@@ -305,7 +305,7 @@ First try to sell it, then build it. Validate your business by finding paying cl
 
 > *"There is no skill called business. Avoid business magazines and business classes." (...)  
 "Anyone who attempts to serve a customer at a new level of quality and scale is an entrepreneur. Anyone who does not, is not." (...)  
-"To build product, «make something people want». To create art, make something «you» want. (The best do both)." (...) 
+"To build product, «make something people want». To create art, make something «you» want." (...)  
 "You are not building a product. You are solving a problem." (...)  
 "Startups are a theory about something the market wants, but doesn’t yet exist." (...)  
 "You only have to be right once." (...)  
@@ -707,28 +707,6 @@ To lead, act with confidence, others will sense the energy and fall in line. No 
 
 > *"The only thing that gives orders is balls."  
 -- (fictional) Tony Montana*
-
-### On vision
-
-> *"Vision is the art of seeing things invisible."  
--- Jonathan Swift [1667]*
-
-Vision without action is a daydream. Action without vision is a nightmare.
-
-> *"If I have seen farther than others, it is because I was standing on the shoulders of giants."  
--- Isaac Newton [1642]*
-
-> *"To accomplish great things we must dream as well as act."  
--- Anatole France [1844]*
-
-> *"Vision without execution is hallucination."  
--- Thomas Edison [1847]*
-
-> *"Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside awakens."  
--- Carl Jung [1875]*
-
-> *"Societies in decline have no use for visionaries."  
--- Anais Nin [1903]*
 
 
 
@@ -1586,6 +1564,9 @@ On falling out of love: First you see the virtues. Then the flaws. For a long an
 
 > *"Unless you love someone, nothing else makes any sense."  
 -- E.E. Cummings [1894]*
+
+> *"Love is the absense of anxiety."  
+-- Wilhelm Reich [1897]*
 
 > *"People change and forget to tell each other."  
 -- Lillian Hellman [1905]*

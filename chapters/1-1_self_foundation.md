@@ -238,6 +238,9 @@ Without commitment, you’ll never start. Without consistency, you’ll never fi
 > *"Devote the rest of your life into making progress."  
 -- Epictetus [0050]*
 
+> *"Continuous improvement is better than delayed perfection."  
+-- Mark Twain [1835]*
+
 > *"Continuous effort, not strength or intelligence, is the key to unlocking our potential."  
 -- Winston Churchill [1874]*
 
@@ -307,9 +310,6 @@ Often our productivity struggles stem not from lack of efficiency, but from lack
 > *"Discipline is choosing between what you want now and what you want most."  
 -- Abraham Lincoln [1809]*
 
-> *"Continuous improvement is better than delayed perfection."  
--- Mark Twain [1835]*
-
 > *"We must suffer one of two pains, either the pain of discipline or the pain of regret and disappointment." (...)  
 "Go for the pain of discipline, it weighs ounces. The pain of regret weighs tons." (...)  
 "Motivation is what gets you started. Habit is what keeps you going."  
@@ -360,6 +360,9 @@ You are not perfect, and you never will be. Success means nothing in life, it’
 
 > *"I have never met a man so ignorant that I couldn’t learn anything from him."  
 -- Galileo Galilei [1564]*
+
+> *"When a man has nothing left to be proud of, he takes pride in his ethnicity."  
+-- Arthur Schopenhauer [1788]*
 
 > *"Books serve to show a man that those original thoughts of his aren’t very new after all."  
 -- Abraham Lincoln [1809]*

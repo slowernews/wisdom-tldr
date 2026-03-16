@@ -117,6 +117,9 @@ Stress is who you think you should be. Peace is who you are. Hustling (the right
 "Our anxiety does not come from thinking about the future, but from wanting to control it."  
 -- Kahlil Gibran [1883]*
 
+> *"Hell isn’t other people. Hell is yourself."  
+-- Ludwig Wittgenstein [1889]*
+
 > *"If something is wrong fix it. But train yourself not to worry, worry fixes nothing."  
 -- Ernest Hemingway [1899]*
 
@@ -220,6 +223,12 @@ You cannot live when you are untouchable. Life is vulnerability. The things you 
 
 > *"Insecurity is the result of trying to be secure."  
 -- Alan Watts [1915]*
+
+> *"The seats are empty. The theatre is dark. Why do you keep acting?"  
+-- Charles Bukowski [1920]*
+
+> *"I vulgarize my feelings by speaking of them too readily to others."  
+-- Susan Sontag [1933]* #i[[1933] SONTAG, Susan (us) ] #i2[SONTAG, Susan (us) ]
 
 > *"Guilt is society’s voice speaking in your head."  
 -- Naval Ravikant [1974]*
@@ -395,7 +404,10 @@ Treat haters like toddlers. When people criticize your life, they are speaking a
 -- Arthur Schopenhauer [1788]*
 
 > *"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."  
--- Henry Thomas Buckle [1821]*
+-- Henry T. Buckle [1821]*
+
+> *"Envy is an admission of inferiority."  
+-- Alan Sullivan [1868]*
 
 > *"Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence." (...)  
 "If A is a success in life, then A = X + Y + Z. Work is X; Y is play; and Z is keeping your mouth shut."  
@@ -632,6 +644,9 @@ Heroes and cowards feel the same fear; their response differs. Courage is intell
 
 > *"Those who lack the courage will always find a philosophy to justify it."  
 -- Albert Camus [1913]*
+
+> *"The simple step of a courageous individual is not to take part in the lie."  
+-- Aleksandr Solzhenitsyn [1918]*
 
 > *"It’s not the mountain we conquer but ourselves."  
 -- (sir) Edmund Hillary [1919]*
@@ -961,6 +976,9 @@ Good enough yields success; perfection yields procrastination, anxiety, and depr
 > *"If I had any humility I would be perfect."  
 -- Ted Turner [1938]*
 
+> *"What is perfection anyway? It’s the death of creativity, that’s what I think."  
+-- Diane Keaton [1946]*
+
 > *"Perfectionism doesn’t make you feel perfect; it makes you feel inadequate."  
 -- Maria Shriver [1955]*
 
@@ -1020,6 +1038,9 @@ A tool is useful when it passes human level. Start with the cheapest tools. Upgr
 
 > *"Give me a museum and I’ll fill it."  
 -- Pablo Picasso [1881]*
+
+> *"The less I needed, the better I felt."  
+-- Charles Bukowski [1920]*
 
 ### On addictions
 
@@ -1177,7 +1198,7 @@ A person who is okay with being alone is a powerful person.
 > *"Solitude is for me a fount of healing which makes my life worth living. Talking is often a torment for me, and I need many days of silence to recover from the futility of words."  
 -- Carl Jung [1875]*
 
-> *It is astonishing what foolish things one can temporarily believe if one thinks too long alone."  
+> *"It is astonishing what foolish things one can temporarily believe if one thinks too long alone."  
 -- John Maynard Keynes [1883]*
 
 > *"I am lonely, yet not everybody will do. I don’t know why, some people fill the gaps and others emphasize my loneliness. In reality those who satisfy me are those who simply allow me to live with my «idea of them»."  

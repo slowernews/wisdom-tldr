@@ -162,7 +162,7 @@ Most problems can be solved by graded exposure over time.
 > *"Repetition is the mother of skill."  
 -- Tony Robbins [1960]*
 
-> *"Practice isn't the thing you do once you're good. It's the thing you do that makes you good." \
+> *"Practice isn’t the thing you do once you’re good. It’s the thing you do that makes you good." \
 -- Malcolm Gladwell [1963]*
 
 ### Improving by analysis
@@ -245,6 +245,9 @@ Wisdom is knowing what to do with what you know. Knowledge is knowing what to sa
 
 > *"Science is organized knowledge. Wisdom is organized life."  
 -- Immanuel Kant [1724]*
+
+> *"Honesty is the first chapter in the book of wisdom."  
+-- Thomas Jefferson [1743]*
 
 > *"The art of being wise is knowing what to overlook."  
 -- William James [1842]*

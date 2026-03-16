@@ -368,6 +368,9 @@ Risk is everything you left over and didn’t thought about.
 > *"We all have enough strength to endure the misfortunes of other people."  
 -- François de La Rochefoucauld [1613]*
 
+> *"What people commonly call fate is mostly their own stupidity."  
+-- Arthur Schopenhauer [1788]*
+
 > *"Shallow men believe in luck or in circumstance. Strong men believe in cause and effect."  
 -- Ralph Waldo Emerson [1803]*
 
@@ -1094,7 +1097,7 @@ Accept loss. Surrender conceals great power: lull the enemy into complacency, ga
 > *"You never cure structural defects; the system corrects itself by collapsing."  
 -- Nassim Taleb [1960]*
 
-### On forgiveness
+### On forgiveness and revenge
 
 <!--
 - Good kids who do one thing wrong were punished worse than Kids who were always acting up. In fact recently ’good behaviour’ from problem kids is rewarded, but nothing for the kids who aren’t a problem. Sums up society in a way.
@@ -1105,13 +1108,25 @@ Accept loss. Surrender conceals great power: lull the enemy into complacency, ga
 
 Hatred is a curse that poisons the hater, not the hated.
 
-Forgiveness is release. Holding a grudge keeps us in the victim role, preserving our «rightness» while prolonging our suffering. We punish ourselves most. But forgiving too easily invites being taken for granted.
+Forgiveness is release. Holding a grudge keeps us in the victim role, preserving our «rightness» while prolonging our suffering. We punish ourselves most. If you don’t reconcile, you’re postponing war. But forgiving too easily invites being taken for granted. 
+
+> *"The axe forgets; the tree remembers."  
+-- vox populi*
+
+> *"Before you embark on a journey of revenge, dig two graves."  
+-- Confucius [-551]*
+
+> *"An eye for an eye will only make the whole world blind."  
+-- Mahatma Gandhi [1869]*
 
 > *"If you hate a person, you hate something in him that is part of yourself. What isn’t part of ourselves doesn’t disturb us."  
 -- Hermann Hesse [1877]*
 
 > *"I hate victims who respect their executioners."  
 -- Jean-Paul Sartre [1905]*
+
+> *"The greatest revenge is success."  
+-- Frank Sinatra [1915]*
 
 > *"Life has become immeasurably better since I have been forced to stop taking it seriously."  
 -- Hunter S. Thompson [1937]*
@@ -1122,27 +1137,11 @@ Forgiveness is release. Holding a grudge keeps us in the victim role, preserving
 > *"It’s not just other people we need to forgive. Sometimes we need to forgive ourselves."  
 -- Mitch Albom [1958]*
 
+> *"Today’s victims will be tomorrow’s oppressors."  
+-- Nassim Taleb [1960]*
+
 > *"People find it far easier to forgive others for being wrong than being right."  
 -- J.K. Rowling [1965]*
 
 > *"Once you had put the pieces back together, even though you may look intact, you were never quite the same as you’d been before the fall."  
 -- Jodi Picoult [1966]*
-
-### On revenge
-
-> *"The axe forgets; the tree remembers."  
--- vox populi*
-
-If you don’t reconcile, you’re postponing war.
-
-> *"Before you embark on a journey of revenge, dig two graves."  
--- Confucius [-551]*
-
-> *"An eye for an eye will only make the whole world blind."  
--- Mahatma Gandhi [1869]*
-
-> *"The greatest revenge is success."  
--- Frank Sinatra [1915]*
-
-> *"Today’s victims will be tomorrow’s oppressors."  
--- Nassim Taleb [1960]*

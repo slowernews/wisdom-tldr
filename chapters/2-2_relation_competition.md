@@ -16,7 +16,8 @@
 -->
 
 > *"If you want to know who controls you, look at who you are not allowed to criticize." (...)  
-"It is dangerous to be right in matters where established men are wrong."  
+"It is dangerous to be right in matters where established men are wrong." (...)  
+"Surrounding yourself with dwarves does not make you a giant."  
 -- Voltaire [1694]*
 
 Everything is hierarchy.
@@ -31,7 +32,10 @@ Only comedians can speak truth without consequences. Don’t bow to gatekeepers,
 -- Lao Tzu [-571]*
 
 > *"If you are ruled by mind you are a king; if by body a slave."  
--- Cato the Younger [-095]*
+-- Cato, the younger [-095]*
+
+> *"To offend a strong man, tell him a lie. To offend a weak man, tell him the truth."  
+-- Marcus Aurelius [0121]*
 
 > *"Nothing strengthens authority so much as silence."  
 -- Leonardo da Vinci [1452]*
@@ -132,6 +136,9 @@ The toughest competition is a good-enough competitor. Easy opponents are often j
 > *"Because she competes with no one, no one can compete with her." (...)  
 "The best fighter is never angry."  
 -- Lao Tzu [-571]*
+
+> *"Be wary of the man who urges an action in which he himself incurs no risk."  
+-- Seneca [-004]*
 
 > *"Any person capable of angering you becomes your master."  
 -- Epictetus [0050]*
@@ -401,6 +408,9 @@ Intelligence is a spectrum, your dog is intelligent also.
 "The measure of intelligence is the ability to change."  
 -- Albert Einstein [1879]*
 
+> *"Genius is to carry the spirit of the child into old age."  
+-- Aldous Huxley [1894]*
+
 > *"Genious is finding the invisible links between things."  
 -- Vladimir Nabokov [1899]*
 
@@ -498,6 +508,9 @@ Money problems are self-confidence problems.
 
 > *"We are not rich by what we possess but by we can do without."  
 -- Immanuel Kant [1724]*
+
+> *"Wealth is like sea water; the more we drink, the thirstier we become; and the same is true of fame."  
+-- Arthur Schopenhauer [1788]*
 
 > *"The first wealth is health."  
 -- Ralph Waldo Emerson [1803]*
@@ -733,6 +746,9 @@ Beauty grabs attention. Personality grabs the heart. A truly beautiful person al
 > *"Elegance is a physical quality. If a woman doesn’t have it naked, she’ll never have it clothed."  
 -- Karl Lagerfeld [1933]*
 
+> *"Elegance is not about being noticed, it’s about being remembered."  
+-- Giorgio Armani [1934]*
+
 > *"Beauty needs a witness. This the only thing a man ever needs to know."  
 -- Zan Perrion [1964]*
 
@@ -755,7 +771,7 @@ Beauty grabs attention. Personality grabs the heart. A truly beautiful person al
 - what’s your adrenaline type? velocidade ou fronteira do conhecido.
 -->
 
-> *"I think I’m greedy, but I’m not greedy for money -- I think that can be a burden -- I’m greedy for an exciting life."  
+> *"I think I’m greedy, but I’m not greedy for money, I think that can be a burden, I’m greedy for an exciting life."  
 -- David Hockney [1937]*
 
 It’s okay to live a life others don’t understand.

@@ -99,7 +99,6 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On generosity](/chapters/2-1_relation_cooperation.md#on-generosity)
 	- [On incentives](/chapters/2-1_relation_cooperation.md#on-incentives)
 - [On leadership](/chapters/2-1_relation_cooperation.md#on-leadership)
-	- [On vision](/chapters/2-1_relation_cooperation.md#on-vision)
 - [On management and delegation](/chapters/2-1_relation_cooperation.md#on-management-and-delegation)
 	- [On teams](/chapters/2-1_relation_cooperation.md#on-teams)
 	- [How to give feedback?](/chapters/2-1_relation_cooperation.md#how-to-give-feedback)
@@ -202,16 +201,14 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On finishing](/chapters/3-2_action_execution.md#on-finishing)
 	- [On winning](/chapters/3-2_action_execution.md#on-winning)
 	- [On quitting and surrendering](/chapters/3-2_action_execution.md#on-quitting-and-surrendering)
-	- [On forgiveness](/chapters/3-2_action_execution.md#on-forgiveness)
-	- [On revenge](/chapters/3-2_action_execution.md#on-revenge)
+	- [On forgiveness and revenge](/chapters/3-2_action_execution.md#on-forgiveness-and-revenge)
 
 *3.3 - On time*
 - [On past](/chapters/3-3_action_time.md#on-past)
-	- [On memory](/chapters/3-3_action_time.md#on-memory)
-	- [On tradition](/chapters/3-3_action_time.md#on-tradition)
+	- [On memory and tradition](/chapters/3-3_action_time.md#on-memory-and-tradition)
 - [On present](/chapters/3-3_action_time.md#on-present)
 - [On future](/chapters/3-3_action_time.md#on-future)
-	- [On dreams](/chapters/3-3_action_time.md#on-dreams)
+	- [On vision](/chapters/3-3_action_time.md#on-vision)
 
 
 

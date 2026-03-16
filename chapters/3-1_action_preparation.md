@@ -333,8 +333,6 @@ Look for what doesn’t make sense, that’s where the opportunity hides. Pay at
 ### On truth
 
 <!--
-+ x@thomassowell -- 
-
 - A verdade, quando muito desagradável, quando ofende os nossos pruridos sensíveis, quando vai contra a realidade virtual que imaginamos ser a verdadeira, é discurso de ódio?
 - "A verdade é filha do tempo."
 -->
@@ -405,6 +403,9 @@ The ones trying to silence others are usually the ones lying. Call a rich man po
 
 > *"The truth will set you free, but first it will piss you off."  
 -- Gloria Steinem [1934]*
+
+> *"I never lie because I don't fear anyone. You only lie when you're afraid."  
+-- John Gotti [1940]*
 
 > *"The best way to get a correct answer on the internet is to post an obviously wrong answer and wait for someone to correct you."  
 -- Kevin Kelly [1952]*
