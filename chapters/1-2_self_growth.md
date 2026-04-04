@@ -1,6 +1,13 @@
-# 1.2 - On growth
+r# 1.2 - On growth
 
 ## On comfort and risk
+
+<!--
+-- x\@buridansridge] * Excitement is a signal that an invitation is present.
+-- x\@lichthauch] * The most dangerous lie is told to young men today is that you should be comfortable. comfort is not peace, comfort is the day you stopped growing and started rotting from the inside. i watch guys my age building lives around the elimination of discomfort, soft beds, good wifi, same restaurant, same friends, same routine, same joke, and they think they are alive. a man who is comfortable is a man who has decided that he is enough as he is, and no god, no ancient text, no prophet, no father worth listening to has ever said that. every sacred word ever spoken said endure. endure. endure...
+-- x\@saintbvnny] * i can’t remember the last time i saw someone walking around with a broken arm
+-- x\@stefanmolyneux] * The price people pay for not exploring opposing opinions is brutal, even to the cost of their own soul...	
+-->
 
 > *"If you think adventure is dangerous, try routine. It’s lethal."  
 -- Paulo Coelho [1947]*
@@ -72,6 +79,10 @@ Adventure comes from perceived risk, not actual peril. Develop a tolerance for r
 
 
 ## On improving
+
+<!--
++ true growth comes from self-correction
+-->
 
 > *"To improve is to change; to be perfect is to change often."  
 -- Winston Churchill [1874]*
@@ -183,8 +194,8 @@ Innovation comes from a broader perspective and analyzing past situations. Peopl
 ### On applied knowledge
 
 <!--
-- don’t be so busy preparing for teh future that you never step into it. the satisfaction of binge consumption brings instant gratification, so whty try anything else? the problem with shoving information is the ilusion of knowledge, especially when you rush it.true learning requires comtemplation. And implementation. And a commitment to reflecting on great ideas over and over again.
-- sabios c six packs
++ don’t be so busy preparing for the future that you never step into it. the satisfaction of binge consumption brings instant gratification, so why try anything else? the problem with shoving information is the illusion of knowledge, especially when you rush it.true learning requires contemplation. And implementation. And a commitment to reflecting on great ideas over and over again.
++ sabios c six packs
 -->
 
 > *"The purpose of knowledge is action, not knowledge."  
@@ -212,6 +223,15 @@ If you are not consistently applying the new information you’re learning, it�
 
 
 ## On wisdom
+
+<!--
+> *"He who sees too much ends up not fitting anywhere."  -- Nietzshe*
+
+-- x\@ayy_listen] * A truly intelligent person dissolves complexity to close the distance. Low eq ones don't have the ability so complexity is used to create distance
+-- x\@s4ibaaa] * intellect requires a degree of empathy. if you are not a good human, if you do not strive to be a good human, you will never have the depth to perceive the people around you and all your conclusions are small little echoes of loneliness
+-- x\@sovereignim] * God and suffering. (Where do you acquire your knowledge? Could you recommend some books which may inspired you through the years? Its great!)
+-- x\@unmodernmanbot] * The wiser you become, the less you argue, because you begin to see that people defend identity, not truth. Silence replaces correction, not out of arrogance, but because explanation no longer feels worth it.
+-->
 
 > *"Wisdom is nothing more profound than an ability to follow one’s own advice."  
 -- Sam Harris [1967]*
@@ -263,7 +283,7 @@ Wisdom is knowing what to do with what you know. Knowledge is knowing what to sa
 -- Kevin Kelly [1952]*
 
 > *"The measure of wisdom is how calm you are when facing any given situation." (...)  
-"Knowledge is discovered colectively. Wisdom is rediscovered individually."  
+"Knowledge is discovered collectively. Wisdom is rediscovered individually."  
 -- Naval Ravikant [1974]*
 
 > *"The measure of intelligence is creativity. The measure of wisdom is sagacity. The measure of ethics is transparency."  
@@ -272,13 +292,13 @@ Wisdom is knowing what to do with what you know. Knowledge is knowing what to sa
 ### On mastery
 
 <!--
-- There’s always room for improvement; be humble. There is no place for a «prima donna». If you’re not improving today, you’re regressing. Skills are perishable, and the path to mastery is a never-ending story. Some of the skills you need to achieve expertise have not yet been systematized.
++ There’s always room for improvement; be humble. There is no place for a «prima donna». If you’re not improving today, you’re regressing. Skills are perishable, and the path to mastery is a never-ending story. Some of the skills you need to achieve expertise have not yet been systematized.
 -->
 
 > *"An expert is a person who has made all the mistakes which can be made in a very narrow field."  
 -- Niels Bohr [1885]*
 
-True experts recognize the limits of what they know and what they do not know. Most experts in their field are introverts, extraversion is not good for mastery.
+True experts recognize the limits of what they know and what they do not know. Most experts in their field are introverts, extroversion is not good for mastery.
 
 > *"We have knowledge of a thing only when we have grasped its cause."  
 -- Aristotle [-384]*
@@ -357,21 +377,43 @@ True experts recognize the limits of what they know and what they do not know. M
 ## On education
 
 <!--
-+ x@shl -- Literacy peaked with Millennials
 > *"Every day, with every action and choice, you’re either a teacher and an inspiration, or a lesson and a reminder."*
+> *"Schools serve the same social functions as prisons and mental institutions - to define, classify, control, and regulate people."  -- Michel Foucault*
+> *"Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."  -- Richard Feinman*
 > *"When you are right, you are learning nothing."*
 > *"When you try something new, don’t think of it as a matter of success / failure, but as success / learning to succeed."*
 
-- The modern education system doesn’t create leaders. It creates followers. Escape the matrix.
-- Young men could learn anything if you questify schools.
-- the problem is not, and never have been, "as good as a professional". It has always been "it’s good enoughto replace a professional so it’ll be cheaper." the key thing about AI is that AI+human is waht we’ll do.
-- deliberate practice
-- He said sniper school is completely mental. Instead of focusing on the negative (don’t flinch), he focused on the positive (keep your eyes on the target.)
-- career day an year -> journaling self analysis. skill fluency!
-- the next level of your life will demand a different you.
-- Study physics, mathematics, computers, microeconomics, game theory, and persuasion. School fails at teaching: self-confidence, money management, dating and relationships, confrontation skills, critical thinking, creative productivity.
-- Success is the worst teacher.
-- The biggest mistake in studying a foreign language is learning it little by little instead of jumping in headfirst. Language isn’t mathematics; one doesn’t learn it—one gets accustomed to it. It’s about experience and skill, not logic or memory.
+-- x\@juliaemccoy] * We are sending our kids to school to memorize facts that AI can retrieve in 0.3 seconds. We’re grading them on essays that AI writes better than their teachers. We’re preparing them for jobs that won’t exist by the time they graduate. The entire education system is training humans to compete with machines at what machines do best. That’s not education. That’s sabotage. The schools that survive will teach thinking, not memorizing. Creating, not repeating. Discerning, not obeying. Every other school is a museum that doesn’t know it yet.
+-- x\@kekius_sage] * Palantir CEO urges people to skip elite colleges, saying «unless you’re neurodivergent», the only path left is skilled trades
+-- x\@naval] * AI is the best teacher for the self-taught.
+-- x\@naval] * The least compressible intellectual domain is physics. The least compressible artistic domain is poetry.
+-- x\@pmarca] * My information consumption is now 1/4 X, 1/4 podcast interviews of the smartest practitioners, 1/4 talking to the leading AI models, and 1/4 reading old books. The opportunity cost of anything else is far too high, and rising daily.
+-- x\@shl] * Literacy peaked with Millennials
+-- x\@stefanmolyneux] * Not quite sure why bullying a teenager in school is always terrible and abusive, but bullying a teenager in the Army turns him into a disciplind and excellent soldier... Can you help me understand?
+-- x\@schoolofgr8men] * Things to teach your kids: Chess / First aid / Resilience / Astronomy / Persuasion / Adaptability / Self-respect / Self-defence / Cooking skills / Assertiveness / Managing time / A good attitude / Public speaking / Problem solving / Self-awareness / Gardening skills / How to volunteer / How to negotiate / Living off the land / Basic home repair / Starting a business / Money management / Good communication / Don’t watch the news / Emotional intelligence / How to manage stress / Basic car maintenance / How to make a decision / How to influence people / How to be a great mother / It’s okay to feel your emotions / Mental frameworks for thinking / Understanding healthy relationships / Building others up, not tearing them down / Problem-solving over memorization / Exploration over conformity / Creativity over rote learning / The value of hard work / How to be kind to everyone / Why failure is the path to success / How to think, not what to think / How to adapt, not conform / How to lead, not follow / How to create, not consume / Taking care of animals / Good use of language / Opposite sex relationships / Healthy food choices / Music, listening and performing / General culture / Foreign languages / Leadership / Stoicism / Fasting / Sports / Video games / Spirituality / Travelling / Copywriting / Drawing / Self-love / Digital literacy / Online safety & privacy / AI basics / Reading habits / Critical thinking / Financial discipline / Environmental responsibility / Empathy / Sleep hygiene / Ethics & integrity
+	-- x\@alas5delatarde] * Partner dancing. Massively underrated. Music is one of the most foundational aspects of human evolution (see Massino’s post this a.m. https://x.com/rainmaker1973/status/2028480446242382133?s=46 ) and the physical communication of that shared experience between two people is a profoundly rewarding life skill.
+	-- x\@anilchandhok] * PRAYER & FAITH: Respect for elders / Empathy for the poor / Value of conscience  / Care for animals / Appreciation of trees and plants
+	-- x\@christophe_tual] * The three things with the there must be no negotiation: 1# Freedom 2# Health 3# Security
+	-- x\@evrybodynthrmom] * In order of intimacy, subjects I hope my sons learn, but not from me: Cooking / Dancing / Massage / Lovemaking / Alongside car maintenance add driving. Remove video games. They can learn that by themselves
+	-- x\@garenomonigho] * how to get straight A's. how to impress relatives. how to collect the most gifts at Christmas. You are not raising a child to perform for others. You are raising them to navigate life with competence, kindness, and courage.The mix of astronomy and first aid is both a big picture and practical. This list says: I want my child to be useful to themselves, useful to others, and useful to the world. That is what parenting should be about.
+	-- x\@grok] * Shortened actionable list to teach kids: Play chess for strategy. Learn first aid & self-defense. Build resilience daily. Explore astronomy & nature. Practice persuasion & public speaking. Cook, garden & fix basics. Manage money & start mini businesses. Negotiate & communicate clearly. Foster emotional intelligence & self-respect. Read often, think critically, create freely. Show kindness, empathy & ethics. Exercise, eat healthy, sleep well. Learn AI & online safety. Lead by example & travel.
+	-- x\@leviwanjala8] * Karate and other self defence techniques
+	-- x\@lindomvilakati] * Basics and Psychology of Addiction, Drugs Alcohol, Cigarettes, Decay and Slothism
+	-- x\@masculinegazee] * Strong List. I’d Add A Few Core Upgrades: Teach them how to spot manipulation. Teach them probability and risk. Teach them how to apologize and forgive. Teach them to sit in silence without a screen. Teach them to change their mind when evidence demands it. Teach them to recover without becoming bitter. Strength + clarity + kindness = unbreakable human.
+	-- x\@real_winidi] * The most important one: teach them how they can learn on their own.
+	-- x\@sindhubiswal] * but it misses the one skill that pays for all the others: high-volume editing. Most people teach kids to create. I'd teach them how to cut. Success today is about selection, not just production. It's the difference between a loud voice and a clear signal. Teach them to audit their own time and inputs every week.
+	-- x\@vaibhavspace] * Been educator for more than decade, I would only teach any kids: Storytelling / Psychology / Marketing / Copywriting / AI
+
++ career day an year -> journaling self analysis. skill fluency!
++ deliberate practice
++ He said sniper school is completely mental. Instead of focusing on the negative (don’t flinch), he focused on the positive (keep your eyes on the target.)
++ Study physics, mathematics, computers, microeconomics, game theory, and persuasion. School fails at teaching: self-confidence, money management, dating and relationships, confrontation skills, critical thinking, creative productivity.
++ Success is the worst teacher.
++ The biggest mistake in studying a foreign language is learning it little by little instead of jumping in headfirst. Language isn’t mathematics; one doesn’t learn it—one gets accustomed to it. It’s about experience and skill, not logic or memory.
++ The modern education system doesn’t create leaders. It creates followers. Escape the matrix.
++ the next level of your life will demand a different you.
++ the problem is not, and never have been, "as good as a professional". It has always been "it’s good enoughto replace a professional so it’ll be cheaper." the key thing about AI is that AI+human is what we’ll do.
++ Young men could learn anything if you questify schools.
 -->
 
 > *"The mind is not a vessel to be filled but a fire to be kindled."  
@@ -463,7 +505,7 @@ Believe in principles. The basics matter most, not jargon or specifics. Understa
 "Learning is cheap, education is expensive." (...)  
 "Anytime you mix education and entertainment, you get neither." (...)  
 "Instead of asking what books you should read, ask what ideas you should understand." (...)  
-"Given that the main funcion of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out." (...)  
+"Given that the main function of universities these days is filtering and signaling, the best move is to get admitted to Stanford and then drop out." (...)  
 "The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge." (...)  
 "The modern conceit — educated people think they can outsmart complex systems like evolution, capitalism, weather and biology." (...)  
 "You get rewarded for unique knowledge, not effort. Effort is required to create unique knowledge. (...)  
@@ -495,15 +537,17 @@ Believe in principles. The basics matter most, not jargon or specifics. Understa
 > *"Only the autodidacts are free."  
 -- x@thesiliconstoic*
 
-
-
-
-
-
-## On reading
+### On reading
 
 <!--
-- Barbell approach: consume what’s latest and the oldest books. Most of modern bookstores sell the middle.
+> *"10 old books feel very aged, out of place, out of sync. 200 year old books feel contemporary. 2000 year old books feel fresh."  -- Nassim Taleb #LindyEffect*
+> *"Books are like love letters; they are destined for a particular person."  -- Lawrence Durrell (1960)*
+> *"The book is the only medium left that hasn’t been corrupted by the profane."  -- Nassim Taleb*
+
+-- x\@skickwriter] Don’t read so much that you forget to write your own story.
+
++ Note that «cut» and «whip» are not exactly words, but products of a culture. Ulysses is particularly hard to read because you don’t know 1910’s Irish pop culture.  -- geohot
++ Barbell approach: consume what’s latest and the oldest books. Most of modern bookstores sell the middle.
 -->
 
 > *"I cannot remember the books I have read any more than the meals I have eaten; even so, they have made me."  
@@ -511,13 +555,24 @@ Believe in principles. The basics matter most, not jargon or specifics. Understa
 
 Reading trains your model of the world. Even if you forget most, its effect persists.
 
+Most books are propaganda. Don’t read books made to make money; read the ones they want to ban. If you want new ideas, read old books.
+
 > *"Reading is to the mind what exercise is to the body."  
 -- Richard Steele [1672]*
+
+> *"The worst thing about new books is that they keep us from reading the old ones."  
+-- Joseph Joubert [1754]*
+
+> *"A classic is a book which people praise and don’t read."  
+-- Mark Twain [1835]*
+
+> *"The great books are the books that never have to be written again."  
+-- Carl Van Doren [1885]*
 
 > *"Literature is the most agreeable way of ignoring life."  
 -- Fernando Pessoa [1888]*
 
-> *"One cannot read a book: one can only reread it. A good reader, a major reader, an active and creative reader is a rereader."  
+> *"One cannot read a book: one can only reread it. A good reader, a major reader, an active and creative reader is a re-reader."  
 -- Vladimir Nabokov [1899]*
 
 > *"A book is less important for what it says than for what it makes you think."  
@@ -557,47 +612,32 @@ Reading trains your model of the world. Even if you forget most, its effect pers
 > *"Read to collect the dots, write to connect them."  
 -- x@david_perell*
 
-### On classics
-
-> *"The great books are the books that never have to be written again."  
--- Carl Van Doren [1885]*
-
-If you want new ideas, read old books.
-
-Most books are propaganda. Don’t read books made to make money; read the ones they want to ban. If you want better ideas, read better books.
-
-> *"The worst thing about new books is that they keep us from reading the old ones."  
--- Joseph Joubert [1754]*
-
-> *"A classic is a book which people praise and don’t read."  
--- Mark Twain [1835]*
-
 > *"I don’t believe in book recommendations lol. Reading what everyone else is already reading—especially books has minimal value (hardly a novel observation) therefore you should allocate your time differently. If everyone’s reading it, the insights are already absorbed into the zeitgeist or regurgitated online. Reading what’s obscure gives you asymmetric knowledge—potentially valuable ideas others haven’t yet mined. There’s a counter: sometimes it pays to understand why a popular book resonates. It’s less about the book itself & more about mapping the cultural moment or the biases of the masses. For this use case I just use chatgpt."  
 -- x@signulll*
 
-
-
-
-
-
-## On writing
+### On writing
 
 <!--
-+ x@g_s_bhogal -- You’ll never know most of your beliefs, because you’ll never express them. To discover who you are, write.
-> *"What no spouse of a writer can ever understand is that a writer is working when he’s staring out the window.*
 #q["You can always edit a bad page. You can’t edit a blank page." -- Jodi Picoult [1966]
 
-- We don’t need ChatGPT to write letters and emails. Just send the prompts.
-- o poeta faz a sintese das coisas
-5. I wrote down the funny stuff I overheard. I learned to be like a ship’s rat, veined ears trembling, and i learned to scribble it all down.
-9. good writing is about telling the truth. we are species that needs and wants to understand who we are.
-13. become a better writer is going to help you become a better reader, and that is the real payoff.
-15. e.l.doctorow once said that: "writing a novel is like driving a car at night. you can see only as far as your headlights, but you can make the hole trip that way."
-45. when people shine a little light on their monster, we find out how similar most of our monsters are.
-46. we write to expose the unexposed. If there’s one door in teh castle you have been told not to go through, you must. Otherwise, you’ll just be rearranging furniture in rooms you’ve already been in.
-47. Annie Dillard has said that day by day you have to give the work before you all teh best stuff you have, not saving up for later projects. If you give freely, there will always be more.
-49. becoming a writer is about becoming conscious.
-50. you can either set a brick as a laborer or as an artist.
+> *"A writer is always unwelcome at the family table. Because we notice things. And then we use them."  -- Elizabeth Hardwick* 
+> *"Good writing is supposed to evoke sensation in the reader - not the fact that is raining, but the feeling of being rained upon."  -- E.L. Doctorow*
+> *"What no spouse of a writer can ever understand is that a writer is working when he’s staring out the window.*
+> *"Your intuition knows what to write, so get out of the way."  -- Ray Bradbury*
+
+-- x\@g_s_bhogal] * You’ll never know most of your beliefs, because you’ll never express them. To discover who you are, write.
+
++ We don’t need ChatGPT to write letters and emails. Just send the prompts.
++ o poeta faz a sintese das coisas
++ I wrote down the funny stuff I overheard. I learned to be like a ship’s rat, veined ears trembling, and i learned to scribble it all down.
++ good writing is about telling the truth. we are species that needs and wants to understand who we are.
++ become a better writer is going to help you become a better reader, and that is the real payoff.
++ e.l.doctorow once said that: "writing a novel is like driving a car at night. you can see only as far as your headlights, but you can make the hole trip that way."
++ when people shine a little light on their monster, we find out how similar most of our monsters are.
++ we write to expose the unexposed. If there’s one door in the castle you have been told not to go through, you must. Otherwise, you’ll just be rearranging furniture in rooms you’ve already been in.
++ Annie Dillard has said that day by day you have to give the work before you all the best stuff you have, not saving up for later projects. If you give freely, there will always be more.
++ becoming a writer is about becoming conscious.
++ you can either set a brick as a laborer or as an artist.
 
 Hints on emails:
 - Make the subject unique, meaningful, and easily searchable.
@@ -697,10 +737,7 @@ If you are writing to be read, you are doing it wrongly. Write to learn, not to 
 
 Habits are systems. We are essentially our habits. You do not rise to the level of your goals; you fall to the level of your systems.
 
-Every day we invest time, energy, and attention into seven «hotspots»: mind, body, emotions, career, finances, relationships, and fun. Treat them as a portfolio to avoid overinvesting in some and underinvesting in others. Annual review. Habits are like compound interest in real life. Consistency doesn’t result from effort; it comes from showing up. Long-term thinking and discipline guarantee an easier life. Endurance matters more than toughness.
-
-> *"People don’t decide their future, they decide their habits and their habits decide their futures."  
--- F.M. Alexander [1869]*
+Every day we invest time, energy, and attention into seven «hotspots»: mind, body, emotions, career, finances, relationships, and fun. Treat them as a portfolio to avoid over-investing in some and under-investing in others. Annual review. Habits are like compound interest in real life. Consistency doesn’t result from effort; it comes from showing up. Long-term thinking and discipline guarantee an easier life. Endurance matters more than toughness.
 
 > *"First we make our habits, then our habits make us."  
 -- (major general) Charles C. Noble [1916]*

@@ -3,16 +3,16 @@
 ## On past
 
 <!--
-- history books are on the history of power. a historia muda. é uma questao de interpretação do que realmente aconteceu
-- never be a prisoner of your past. It was just a lesson not a life sentence. No one is there anymore.
-- One day each of us burned a cd for the last time but we didn´t know it was the last time.
-- One million seconds ago was 11 days ago. One billion seconds ago was 31 years ago.
++ history books are on the history of power. a historia muda. é uma questao de interpretação do que realmente aconteceu
++ One day each of us burned a cd for the last time but we didn’t know it was the last time.
 -->
 
 > *"The past doesn’t help understanding the present. It’s the present that helps understanding the past."  
 -- José Saramago [1922]*
 
 Life becomes easy when you recognize recurring patterns.
+
+Don’t be a prisoner of your past. It was just a lesson not a life sentence. No one is there anymore. 
 
 > *"History is the version of past events that people have decided to agree on."  
 -- Napoleon Bonaparte [1769]*
@@ -34,6 +34,9 @@ Life becomes easy when you recognize recurring patterns.
 
 > *"I’ve always preferred mythology to history. Because history is made up of truths that eventually turn into lies. Mythology is made up of lies that eventually become truths."  
 -- Jean Cocteau [1889]*
+
+> *"The past is never where you think you left it."  
+-- Katherine Anne Porter [1890]*
 
 > *"The historian is not really interested in the unique, but in what is general in the unique."  
 -- Edward Carr [1892]*
@@ -59,15 +62,7 @@ Life becomes easy when you recognize recurring patterns.
 > *"History is the study of change, ironically used as a map of the future."  
 -- x@morganhousel*
 
-> *"If a journalist can have a hidden agenda, imagine a historian."  
--- x@rapahelz*
-
 ### On memory and tradition
-
-<!--
-#q["The past is never where you think you left it." -- Katherine Anne Porter [1890]
-#q["Memory is the diary that we all carry about with us." -- Oscar Wilde [1854]
--->
 
 > *"Memory is never a precise duplicate of the original; instead, it is a continuing act of creation."  
 -- Rosalind Cartwright [1922]*
@@ -127,6 +122,9 @@ However, you can’t start a new chapter if you keep re-reading the last one. Th
 > *"Keep in mind that people change, but the past doesn’t."  
 -- Becca Fitzpatrick [1979]*
 
+> *"If a journalist can have a hidden agenda, imagine a historian."  
+-- x@rapahelz*
+
 
 
 
@@ -135,8 +133,8 @@ However, you can’t start a new chapter if you keep re-reading the last one. Th
 ## On present
 
 <!--
-- Think in years, work in days, live in the moment.
-- «4000 weeks» is by far the most insane framing for how short life is. “80 summers” is easily the most insane way to describe how short life is. | 96 blocks a day -- wait but why
++ Think in years, work in days, live in the moment.
++ «4000 weeks» is by far the most insane framing for how short life is. “80 summers” is easily the most insane way to describe how short life is. | 96 blocks a day -- wait but why
 -->
 
 > *"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart."  
@@ -189,6 +187,10 @@ Act accordingly and don’t postpone joy. Live as if it’s everyone else’s la
 
 ## On future
 
+<!--
+-- x\@signulll] * the internet created global liquidity in everything. this includes talent markets, jobs, dating, attention, & status among many other things. this is the single most under realized structural change of the last 20 years. almost no one understands this well. what this means practically is that whatever you're pursuing, you're now competing in a pool that's orders of magnitude larger than any previous generation faced. the distribution of outcomes gets fatter on both tails & the middle hollows out. you either benefit from the expanded opportunity set or you get crushed by it. the people who thrive in liquid markets are the ones who figure out which game is still inefficiently priced & get there first. but these windows close faster than ever before.
+-->
+
 > *"The greatest risk to a man is not that he aims too high and misses, but that he aims too low and hits."  
 -- Michelangelo [1475]*
 
@@ -202,6 +204,9 @@ An ambitious goal sets the bar so high that even failure can feel like success b
 > *"Every saint has a past, and every sinner has a future." (...)  
 "Anyone who lives within their means suffers from a lack of imagination."  
 -- Oscar Wilde [1854]*
+
+> *"People don’t decide their future, they decide their habits and their habits decide their futures."  
+-- F.M. Alexander [1869]*
 
 > *"The empires of the future are empires of the mind."  
 -- Winston Churchill [1874]*
@@ -263,3 +268,6 @@ Vision without action is a daydream. Action without vision is a nightmare.
 
 > *"Goals are dreams with deadlines."  
 -- Diana Scharf Hunt [1952]*
+
+> *"The most important thing is to be stubborn on your vision but flexible on details."  
+-- Jeff Bezos [1964]*

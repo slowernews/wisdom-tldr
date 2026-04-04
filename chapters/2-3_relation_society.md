@@ -3,69 +3,92 @@
 ## On society and politics
 
 <!--
-+ x@PlanetOfMemes -- Capitalism will actually be the driver of the utopia Socialists hope for.
-+ x@Maronidd -- He was transphobic and homophobic, he deserved to die". I have excellent news for you about the population of Gaza
-+ x@kunalb11 -- Easiest way to build a tribe is to convince a group of people that their current misfortune is not due to their choices but instead due to presence and actions of another group.
-> *"It’s the battle of the masculine men and the feminine women vs the masculine women and the feminine men."  -- x@naval*
-> *"Tech is the accelerator, regulation is the brake."  -- x@naval*
+#q["The river became cleaner and the towns died." \-- x\@damon_peters] #i2("@damon_peters [x] ")
+#q["For decades, the trade was simple: print money, buy homes, squeeze the middle class. Today, that trade died." \-- x\@kylechasse] #i2("@kylechasse [x] ")
+
+> *"Não tenho nada contra os artistas. Eu mesmo já tive uma banda de rock. Meu problema é que, se você precisa de subsídios do governo para fazer arte, você deixa de ser artista e se torna um funcionário público."— Javier Milei, Presidente da Argentina*
+> *"Karl Marx, a visionary, figured out that you can control a slave much better by convincing him he is an employee."  -- Nassim Taleb in The Bed of Procrustes*
+> *"Se vamos adotar reparações pela escravidão, vai ser a maior transferência de riqueza para todo lado: o número de brancos escravizados no Norte da África pelos piratas berberes superou o número de africanos escravizados nos Estados Unidos."  -- Thomas Sowell*
 > *"A candidate is a person who gets money from the rich and votes from the poor to protect them from each other.*
+> *"If all cultures are equal, then cannibalism is just a matter of culinary taste."  -- Léo Strauss*
 > *"If majority of academics vote Democrat, it is not random: they  1) don’t have skin in the game, (others take risks for them) 2) are not productive members of society but want to lecture others on what to do 3) have steady income etc."  -- Nassim Taleb [1960]*
 > *"It doesn’t matter what you do, it only matters what you say you’ve done and what you’re going to do.*
+> *"It was always the women, and above all the young ones, who were the most bigoted adherents of the party, the swallowers of slogans, the amateur spies."  -- George Orwell [1903]*
+> *"It’s the battle of the masculine men and the feminine women vs the masculine women and the feminine men."  -- x@naval*
+> *"One of the great mistakes is to judge policies and programs by their intentions rather than their results."  -- Milton Friedman
+> *"Socialism, def: a political system where decisions are made by people with advanced degrees in social "science"."  -- Nassim Taleb*
 > *"Tech giants want to be regulated because they want to hand off the unpopular decisions to governments."  -- Pedro Domingos [1965]*
-> *"The way these psycopaths seamlessly changed the word "censorship" to "safety"."  -- x@micsolana*
+> *"Tech is the accelerator, regulation is the brake."  -- x@naval*
+> *"The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command."  -- George Orwell [1903]*
+> *"The real problem of humanity is the following: We have Paleolithic emotions, medieval institutions and godlike technology."  -- Edward O. Wilson
+> *"The way these psychopaths seamlessly changed the word "censorship" to "safety"."  -- x@micsolana*
 > *"To be successful, society must maintain a balance between nurturing excellence and encouraging the average to improve. There must be both cooperation and competition between people in the same society. There is a continual need to balance between a successful, competitive society, and a cohesive, compassionate one."*
 > *"When a Democrat is elected, buy gun and ammo stocks. When a Republican is elected, buy newspaper stocks."*
 > *"Where they have burned books, they will end in burning human beings."  -- Heinrich Heine*
-> *"If all cultures are equal, then cannibalism is just a matter of culinary taste."  -- Léo Strauss*
-> *"The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command."  -- George Orwell [1903]*
-> *"It was always the women, and above all the young ones, who were the most bigoted adherents of the party, the swallowers of slogans, the amateur spies."  -- George Orwell [1903]*
+Milton Friedman, 4 ways to spend money: 1. Your money on yourself (you’re careful about both cost and quality) 2. Your money on others (you care about cost, less about quality) 3. Someone else’s money on yourself (you care about quality, not cost) 4. Someone else’s money on others (you care about neither) Hint: #4 is the government
 
-- the secret is to be cool with everybody but don’t hang with nobody. that’s how you survive the streets
-- Friedman told us...."keep your eye on one thing and one thing only....how much government is spending".
-- The co-exist people are unable to co-exist with people who disagree with them.
-- Respect is a passport. Crime is a deportation letter.
-- 8h workday keep free time scarce and people pay a lot more for convenience, gratification and any other relief they can buy. it keeps them watching television, and its commercials. it keeps them unambitious outisde of work.
-- all poverty is energy poverty.
-- As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are «true» and «pure» members of our group, and we either shame any «non-believers» into conformity or simply expel them from the tribe.
-- escola meritocratica e o o q podes fazer por ti. mundo n. mundo move-se pelo q podes fazer por mim.
-- everything I don’t like must be banned. Everything I do like is a human right and must be paid for by others.
-- few tv channels equalized culture.
-- hard times create strong man, strong man create good times. good times create weak men. weak men create weak times.
-- If Satoshi wasn’t anon he’d have already been arrested by any Western country.
-- If you want to destroy any nation without war, make adultery or nudity common in the young generation.
-- insisting in your rights without acknowledging your responsabilities isn’t freedom is adolescence
-- it’s just human nature that if i get to decide who gets the gold it is goIng To be my friends, family and people i like.
-- law is not a moral compass. the people who hidE anne frank were breaking the law. The people who killed her were following it.
-- liberalismo economico vs fundamentalismo mercado livre. estado n é iliberal pq n diminui a concorrencia
-- low-key activism is often just narcisism. most people don’t really understand the issuesthey are being activist about. It’s just virtue signaling on Social Media. A young generation doesn’t know what a really debate dosen’t include demonizing people and get them canceled.
-- Men often believe or pretend that the "Law" is something sacred, or at least a science an unfounded assumption very convenient to governments.
-- minimal amounts of cash improve the life of poor more than equivalent spending on aid programs or goods.
-- Never apologize to the politically correct.
-- Não há direitos sem obrigações e viceversa.
-- Only a poor man and an unattractive woman truly understand the reality of life.
-- pandemic imprisoned poor people and freed rich people.
-- people accept inequality if the taht person is willing to take risk. (steve jobs vs rent seeking ceo)
-- people of all political persuasions
-- politics are a catalyst
-- Politics is simply theatre for the slave class.
-- Proximity to white people and their tax dollars is not a human right.
-- Saying that White countries deserve to be flooded with brown migrants because of colonialism is acknowledging that you people are a plague and a punishment.
-- social contracts: public promises. Everything is a contract!
-- sufffering is individual. nations or corporations don’t suffer.
-- the benefits of a world government that federated nations would be an improvement for all. We could replace the war model by a policing model. We could institute the basic human right of mobility on the planet. we could address the global climate change.
-- The entire real estate market of the West is based on «how far away can I get from these people without having to drive 4h to work».
-- The idea of sinister elites controlling everything is popular because it’s more comforting than the truth: that even our leaders don’t know what they’re doing and society is ruled mostly by chance.
-- the passports of the future should be based on skills and health rather than nationality.
-- the same people who sell the panic, sell the pill
-- This is what police does. They want peace, but can’t arrest perpetrators, so they arrest the victim instead. This used to happen a lot during BLM. They even arrested people from their own homes and neighbourhoods.
-- Time to make crime illegal again.
-- uma bandeira representa sempre um colectivo
-- When the state is absent the patriots become the state.
-- Youthful male energy is the lifeblood of revolution. The campaign against young men isn’t about preventing misogyny — it’s about preventing regime change.
-And once your philosophy has inverted upon itself, it becomes corrupt. Just like the old communist societies of the 20th century, once you set out to provide perfect equality for everybody, you achieve the exact opposite. What was once progressive becomes regressive. You become so busy policing people’s thoughts and opinions that you lose track of what actually matters.
-But the problem is that, like I said, feminism, in the process of enacting all of the progress of the last 50 years, became more than a philosophy—it became an institution. And institutions are always primarily interested in sustaining themselves first and engaging with the world as it is second.
-Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
-The way you destroy stereotypes is by being the contradiction of the stereotype. These are the real activists. This is where real progress happens. Yes, women still face stereotypes and poor treatments in these industries. But this is the trench today’s feminists should be fighting in. This is where they should be making their push -- and not by talking about it online, but by actually being there.
+-- x\@carlosadams] * Me fui de España hace años. No por odio, por matemáticas. Cuando el 50% de lo que generas se va en impuestos, no estás construyendo tu vida. Estás financiando la de otros que nunca han arriesgado nada.
+-- x\@cobratate] * If you walked into any random high school and had to choose a kid to be President of the United States, the smartest choice would be the school bully.He understands power dynamics.Understands the art of exerting his force and influence, is honest with those he dislikes and likes.Very few games with a bully. They’re pretty transparent and trustworthy people.You can trust them to be loyal to the jocks in the face of a teacher and trust them to pick on a weird kid. Great candidate.The worst choice would be a nerd or theatre kid. These types and romanticised by Hollywood as "misunderstood" but the majority of the time they’re simply low capability scum.As President, theatre kids and nerds would only attempt to exact endless revenge on the entire world to inact a suppressed rage they never had the physical capability to express.A bully isn’t frustrated because if he’s mad he acts mad.A nerd is very frustrated. He’s not allowed to to be mad. Because it just get his own ass kicked. Sidenote: This is why I’m so happy because I yell all day and everybody’s forced to listen because I’m huge and important and rich. It’s very therapeutic.The men who can’t yell because nobody cares are consumed by rage.Also - in this fictional high school and this fictional scenario it is very important to not give ugly people power.We see this in the west now. Germany UK etc many politicians are fat and very ugly.Fat people can’t be trusted because they lack self respect, self discipline and self control. They’re happy to physically disable themselves for short term happiness and broadcast to the entire plant innate greed.This mentality immediately disqualifies you for being taken seriously.Fat people are not good people.And ugly people will always act cruel to over compensate for a deep hatred of themselves and insecurity.Ugly people are bad people because they’re very mad God made them ugly.In short.If you put the bully in charge he will be nice to everyone strong and cool and bully the nerds but if the nerds become strong he will like them. So it’s a simple meritocracy promoting capability.If you put the ugly fat nerd kids in charge they’ll abuse their power to the max and destroy everyone’s life based on internal super rage and there is no way to stop them besides taking the power away and bullying them again.Fat people are bad people because they’re selfish short term thinkers.Ugly peoples are bad people because they’re full of hate and jealousy and will hurt pretty people anyway they can. Leaders should exclusively be big angry men. Worlds better that way.
+-- x\@itscarterhughes] * has announced his support for Warren Buffett’s plan to eliminate the deficit in 5 minutes:"Just pass a law that says, ‘Anytime there's a deficit of more than 3% of GDP, all sitting members of Congress are ineligible for reelection.’" Do you support this?
+-- x\@kunalb11] * Easiest way to build a tribe is to convince a group of people that their current misfortune is not due to their choices but instead due to presence and actions of another group.
+-- x\@maronidd] * He was transphobic and homophobic, he deserved to die". I have excellent news for you about the population of Gaza
+-- x\@naval] * Future games will be made «for you» on the fly, generating gameplay and content based on your micro-engagement.
+-- x\@nic_carter] * it hasn't sunk in for most people. we already live in a post-scarcity society. UBI is already here.basic package: disability, medicaid, food stamps etc
+-- x\@planetofmemes] * Capitalism will actually be the driver of the utopia Socialists hope for.
+-- x\@sholdondaniels] * If requiring an ID to vote is so racist, then requiring an ID for any reason is racist.
+
++ Once you have no more earning potential, you’d think the advertising would go away. If you have no money, there’s no reason for people to pay to manipulate you to get you to give them some. Google and Facebook will die, and this evil sector of the economy will finally be destroyed. I wish. As long as you have the ability to vote, there’s still a reason to manipulate you. And with there being less to buy and more value to be gained in influencing the monopoly on violence, the ad onslaught will continue. It will be even worse, it’s not just about you buying something, it’s about you believing something. It reaches inside.  -- geohot
++ taxing cigarettes reduces consume. taxing work doesn’t...
++ Valor da terra muda devido ao money supply.
++ Memoria de pobreza é terrivel pq te agarras ao que tens. é terrivel p povo e empresarios.
++ Homem economico só quer saber dos seus interesses. Só se houve falar de politica quando as coisas não tao a evoluir.
++ Os não-patrões tão qualificados bem que podiam começar a arriscar criar os seus negócios e levarem assim os pouco qualificados patrões a falirem e tornarem-se pouco qualificados empregados dos muito qualificados patrões… só não percebo porque não o fazem. Será que não tem qualificações para tal?
++ the secret is to be cool with everybody but don’t hang with nobody. that’s how you survive the streets
++ Friedman told us...."keep your eye on one thing and one thing only....how much government is spending".
++ The co-exist people are unable to co-exist with people who disagree with them.
++ Respect is a passport. Crime is a deportation letter.
++ 8h workday keep free time scarce and people pay a lot more for convenience, gratification and any other relief they can buy. it keeps them watching television, and its commercials. it keeps them unambitious outside of work.
++ all poverty is energy poverty.
++ As humans, we are tribal by nature. Our natural default is to see ourselves as part of some group that’s struggling against some other group(s) at all times. And once we’re part of our little group, our little tribe, we adopt all sorts of biases and preferences. We construct belief systems that justify our group’s power and superiority. We create tests of whether other people are «true» and «pure» members of our group, and we either shame any «non-believers» into conformity or simply expel them from the tribe.
++ escola meritocratica e o o q podes fazer por ti. mundo n. mundo move-se pelo q podes fazer por mim.
++ everything I don’t like must be banned. Everything I do like is a human right and must be paid for by others.
++ few tv channels equalized culture.
++ hard times create strong man, strong man create good times. good times create weak men. weak men create weak times.
++ If Satoshi wasn’t anon he’d have already been arrested by any Western country.
++ If you want to destroy any nation without war, make adultery or nudity common in the young generation.
++ insisting in your rights without acknowledging your responsibilities isn’t freedom is adolescence
++ it’s just human nature that if i get to decide who gets the gold it is goIng To be my friends, family and people i like.
++ law is not a moral compass. the people who hidE anne frank were breaking the law. The people who killed her were following it.
++ liberalismo economico vs fundamentalismo mercado livre. estado n é iliberal pq n diminui a concorrencia
++ low-key activism is often just narcisism. most people don’t really understand the issuesthey are being activist about. It’s just virtue signaling on Social Media. A young generation doesn’t know what a really debate doesn’t include demonizing people and get them canceled.
++ Men often believe or pretend that the "Law" is something sacred, or at least a science an unfounded assumption very convenient to governments.
++ minimal amounts of cash improve the life of poor more than equivalent spending on aid programs or goods.
++ Never apologize to the politically correct.
++ Não há direitos sem obrigações e viceversa.
++ Only a poor man and an unattractive woman truly understand the reality of life.
++ pandemic imprisoned poor people and freed rich people.
++ people accept inequality if the that person is willing to take risk. (steve jobs vs rent seeking ceo)
++ people of all political persuasions
++ politics are a catalyst
++ Politics is simply theatre for the slave class.
++ Proximity to white people and their tax dollars is not a human right.
++ Saying that White countries deserve to be flooded with brown migrants because of colonialism is acknowledging that you people are a plague and a punishment.
++ social contracts: public promises. Everything is a contract!
++ suffering is individual. nations or corporations don’t suffer.
++ the benefits of a world government that federated nations would be an improvement for all. We could replace the war model by a policing model. We could institute the basic human right of mobility on the planet. we could address the global climate change.
++ The entire real estate market of the West is based on «how far away can I get from these people without having to drive 4h to work».
++ The idea of sinister elites controlling everything is popular because it’s more comforting than the truth: that even our leaders don’t know what they’re doing and society is ruled mostly by chance.
++ the passports of the future should be based on skills and health rather than nationality.
++ the same people who sell the panic, sell the pill
++ This is what police does. They want peace, but can’t arrest perpetrators, so they arrest the victim instead. This used to happen a lot during BLM. They even arrested people from their own homes and neighborhoods.
++ Time to make crime illegal again.
++ uma bandeira representa sempre um colectivo
++ When the state is absent the patriots become the state.
++ Youthful male energy is the lifeblood of revolution. The campaign against young men isn’t about preventing misogyny — it’s about preventing regime change.
++ And once your philosophy has inverted upon itself, it becomes corrupt. Just like the old communist societies of the 20th century, once you set out to provide perfect equality for everybody, you achieve the exact opposite. What was once progressive becomes regressive. You become so busy policing people’s thoughts and opinions that you lose track of what actually matters.
++ But the problem is that, like I said, feminism, in the process of enacting all of the progress of the last 50 years, became more than a philosophy—it became an institution. And institutions are always primarily interested in sustaining themselves first and engaging with the world as it is second.
++ Once a philosophy goes tribal, its beliefs no longer exist to serve some moral principle, but rather they exist to serve the promotion of the group.
++ The way you destroy stereotypes is by being the contradiction of the stereotype. These are the real activists. This is where real progress happens. Yes, women still face stereotypes and poor treatments in these industries. But this is the trench today’s feminists should be fighting in. This is where they should be making their push -- and not by talking about it online, but by actually being there.
 -->
 
 > *"For the friends: everything. For the others: the law."  
@@ -75,7 +98,7 @@ Pretending simple things are complicated, and complicated things simple, is the 
 
 Taxes are a membership fee that most of us are voluntarily overpaying. Changes from within are more sustainable than revolutions.
 
-> *"If you plan is for 1 year, plant rice. If you plan is for 10 years, plant trees. If you plan is for 100 years, educate children."  
+> *"If your plan is for 1 year, plant rice. If your plan is for 10 years, plant trees. If your plan is for 100 years, educate children."  
 -- Confucius [-551]*
 
 > *"What society does to its children, so will its children do to society."  
@@ -133,6 +156,10 @@ Taxes are a membership fee that most of us are voluntarily overpaying. Changes f
 
 ### On politicians
 
+<!--
++ Os idealistas perdem o encanto quando os conhecemos em carne e osso.
+-->
+
 > *"90% of the politicians give the other 10% a bad reputation."  
 -- Henry Kissinger [1923]*
 
@@ -175,6 +202,16 @@ The opposite of corruption is patriotism. To reduce corruption, diminish people 
 
 ### On bureaucracy
 
+<!--
+#q["Had this election not been won by Trump, civilization would be lost." (...) \"The final step of DOGE is to delete itself." \-- Elon Musk \[1971\]] #i2[[1971] MUSK, Elon (us/za) ]
+
++ Um governo é reformista quando há pessoas na rua. Governments profit from complex perma-projects but lose their jobs with efficient quick fixes. Simple solutions are only great for the people.
++ Encostam-se ao estado ou emigram ou servitude do estado.
++ Mais vale lei simples com 80% eficácia que lei complicada com 87% eficácia.
++ I am still trying to figure out why liberals don’t want to save money? Why they are fighting so hard to stop DOGE?
++ Low trust society vs high trust society. Importacao de malta low trust. Pouca confiança leva a burocracia.
+-->
+
 > *"The first responsibility of any bureaucracy is the preservation of itself. The second is to expand its responsiblities."  
 -- Morton Halperin [1934]*
 
@@ -211,6 +248,12 @@ Bureaucracy blocks low-probability events at the cost of imposing more complianc
 > *"If I fully destroy the corruption, they will kill me."  
 -- Elon Musk [1971]*
 
+> *"If you allow secret info, secret police and secret courts, eventually you’ll be ruled by a secret government."  
+-- Naval Ravikant [1974]*
+
+> *"Elon is attacking corruption, and corruption is attacking Elon. It’s as simple as that."  
+-- x@jasondebolt*
+
 > *"Bureaucracy = culture of submission. Innovation = culture of subversion. Hence the antagonism."  
 -- x@rapahelz*
 
@@ -221,13 +264,13 @@ Bureaucracy blocks low-probability events at the cost of imposing more complianc
 
 The real diversity is the diversity of ideas, not skin color.
 
-The moment you cross a second border, you are an economic migrant, not a refugee. Multicultural is by absurdum the true monocultural.
+The moment you cross a second border, you are an economic migrant, not a refugee. Multicultural is by absurd the true mono-cultural.
 
 > *"The disappearance of nations would have impoverished us no less than if all men had become alike, with one personality and one face. Nations are the wealth of mankind, its collective personalities; the very least of them wears its own special colours and bears within itself a special facet of divine intention."  
 -- Aleksandr Solzhenitsyn [1918]*
 
 > *"What «multiculturalism» boils down to is that you can praise any culture in the world except Western culture — and you cannot blame any culture in the world except Western culture." (...)  
-"Our children and grandchildren may yet curse the day we began hyping race and ethnicity. There are countries where that has led to slughters in the streets but you cannot name a country where it has led to greater harmony." (...)  
+"Our children and grandchildren may yet curse the day we began hyping race and ethnicity. There are countries where that has led to slaughters in the streets but you cannot name a country where it has led to greater harmony." (...)  
 "Racism is not dead, but it is on life support — kept alive by politicians, race hustlers, and people who get a sense of superiority by denouncing others as «racists.»"  
 -- Thomas Sowell [1930]*
 
@@ -264,7 +307,7 @@ To maintain a tolerant society, the society must be intolerant of intolerance.
 > *"Democracy is the theory that the common people know what they want, and deserve to get it good and hard."  
 -- H.L. Mencken [1880]*
 
-> *"Democracy has got nothing to do with who should rule. Democracy is the system which allows you to remove policies and rulers most efficently without violence. and that’s how you judge different democratic systems."  
+> *"Democracy has got nothing to do with who should rule. Democracy is the system which allows you to remove policies and rulers most efficiently without violence. and that’s how you judge different democratic systems."  
 -- Karl Popper [1902]*
 
 > *"Fascism, Nazism, Communism and Socialism are only superficial variations of the same monstrous theme — collectivism." (...)  
@@ -283,10 +326,14 @@ To maintain a tolerant society, the society must be intolerant of intolerance.
 
 ### On freedom
 
+<!--
+-- x\@talebwisdom] * "The difference between slaves in Roman and Ottoman days and today’s employees is that slaves did not need to flatter their boss."
+-->
+
 > *"The clash of ideas is the sound of freedom."  
 -- Lady Bird Johnson [1912]*
 
-Freedom without property is an ilusion.
+Freedom without property is an illusion.
 
 > *"The Tree of Liberty must, from time to time, be watered with the blood of patriots." (...)  
 "The price of freedom is eternal vigilance."  
@@ -321,6 +368,10 @@ Freedom without property is an ilusion.
 -- x@pmddomingos*
 
 ### On justice, law and tolerance
+
+<!--
+> *"The more laws, the less justice."  -- Cicero*
+-->
 
 > *"Justice will not be served until those who are unaffected are as outraged as those who are."  
 -- Benjamin Franklin [1706]*
@@ -390,9 +441,12 @@ Justice without enforcement is just opinion.
 ### On equality
 
 <!--
-- Um socialista honesto não entende de Economia. Um socialista que entende de economia não é honesto. Um homem honesto que entende de Economia não é socialista.
-- When people support Socialism, they always think they’ll be the ones to receive and never realize that they’re the ones that give.
 > *"O comunismo penetrou até mesmo nos circulos cristãos disfarçado de solidariedade. É nosso dever pastoral expô-lo."  -- Robert Francis Prevost (Papa Leão XIV em 2010)
+
+-- x\@econbreau] * Socialism is the theory that if you abolish profit, bread will somehow bake itself out of moral superiority.
+
++ Um socialista honesto não entende de Economia. Um socialista que entende de economia não é honesto. Um homem honesto que entende de Economia não é socialista.
++ When people support Socialism, they always think they’ll be the ones to receive and never realize that they’re the ones that give.
 -->
 
 > *"Far-right are nostalgic for a world that never was. Far-left are hopeful for a world that can never be."  
@@ -411,7 +465,7 @@ Inequality is a problem. Equality is not the solution. That’s the dilemma. Wok
 > *"A tax is a fine for doing well. A fine is a tax for doing wrong."  
 -- Mark Twain [1835]*
 
-> *"The whole gospel of Karl Mark can be summed upin a single sentence; hate the man who is better off than you."  
+> *"The whole gospel of Karl Mark can be summed upon a single sentence; hate the man who is better off than you."  
 -- Henry Hazlitt [1894]*
 
 > *"The concept of social justice has been the trojan horse through which totalitarianism has entered." (...)  
@@ -486,8 +540,16 @@ Rigid regimes are doomed when they become flexible. The revolutionaries always b
 > *"Broadcast TV is not designed for you; it’s designed for advertisers.*
 > *"Freedom of the press is for those who happen to own one.*
 
-- engagement media
-- Instagram: where average people pretend to be millionaires. Twitter: where millionaires pretend to be average people.
+-- x\@pmddomingos] * If you think social media is addictive, wait until you have an army of agents doing your bidding 24x7.
+-- x\@wisdomtldr] * Today’s selfie is tomorrow’s biometric profile.
+
++ Chegámos a um ponto em que os campeões da desinformação neste momento não são as redes sociais. Os campeões são as redações dos OCS como o Expresso e Público. Porque ao menos nas redes não está tudo certo, mas há diversidade de opiniões. Nos OCS só há a diversidade "aprovada".
++ A democracia só é saudavel quando o jornalismo é isento. Preocupados c a desinformação mas dizem que os homens podem ficar grávidos.
++ Mais jornalistas e menos assistentes sociais. Se o jornalismo auto-imolado pela sinalização da virtude, falha na sua obrigação de tratar as pessoas como adultas, o resultado é a falencia claro - ou serem comprados pelo poder. A verdade acima de tudo senão temos entretenimento. Até os pivots já emitem opiniões. O Jornalismo já morreu, agora existem influenciadores.
++ Memes do a better at reporting current events than the main stream media. If the situation was hopeless their propaganda would be unnecessary.
++ Social media are validation machines.
++ engagement media
++ Instagram: where average people pretend to be millionaires. Twitter: where millionaires pretend to be average people.
 -->
 
 > *"Journalism is printing what someone else doesn’t want printed. Everything else is public relations."  
@@ -520,6 +582,10 @@ News is the first draft of history, but the human brain isn’t designed to proc
 > *"The media is always accurate, except when they are talking about things I know."  
 -- Knoll’s law*
 
+> *"When media is behind your movement, you aren’t the resistance." (...)  
+"The job of the mainstream media today is to make you think that the views of 10% of the country are actually the views of 90% of the country."  
+-- internet memes*
+
 
 
 
@@ -530,8 +596,12 @@ News is the first draft of history, but the human brain isn’t designed to proc
 <!--
 > *"Fools rush in and get the best seats in the house."*
 
-- One of the hardest lessons in adulthood is realizing some people just aren’t built for reflection or growth. They’ll make the same mistake for 20 years and call it a personality.
-- every snowflake is different but all snow is the same.
+-- x\@defiyantlyfree] * Being hated by idiots is a small price to pay for not being one of them.
+-- x\@naval] * Coding an app is the new starting a podcast.
+-- x\@talebwisdom] * "Corollary to Moore’s Law: every ten years, collective wisdom degrades by half." (The Bed of Procrustes)
+
++ One of the hardest lessons in adulthood is realizing some people just aren’t built for reflection or growth. They’ll make the same mistake for 20 years and call it a personality.
++ every snowflake is different but all snow is the same.
 -->
 
 > *"Mimicking the herd, invites regression to the mean."  
@@ -671,8 +741,12 @@ Most people don’t think, they grab their first thought and run. Smart is think
 > *"The more stupidity is repeated the more it gets the appearance of wisdom."  
 -- Voltaire [1694]*
 
-> *"Nothing is more terrible than to see ignorance in action."  
+> *"Nothing is more terrible than to see ignorance in action." (...)  
+"Ignorant people raise questions which were answered by the wise thousands of years ago."
 -- J.W. Goethe [1749]*
+
+> *"No amount of evidence will ever persuade an idiot."  
+-- Mark Twain [1835]*
 
 > *"A stupid man’s report of what a clever man says can never be accurate, because he unconsciously translates what he hears onto something he can understand."  
 -- Bertrand Russell [1872]*
@@ -702,6 +776,16 @@ Most people don’t think, they grab their first thought and run. Smart is think
 -- x@sgrstk*
 
 ### How to judge someone?
+
+<!--
+> *"Being nice counts the most when you are nice to people ignored by others."  -- Nassim Taleb*
+
+-- x\@mindarchetypes] * The opposite is true as well, as low IQ people tend to consistently interrupt because they simply don’t understand the point you’re making. I used to notice this pattern more often than not, but now I avoid it for the most part. It’s been a welcome change with positive effects.
+-- x\@nntaleb] * A noble person is kind to a stranger he will never meet again, when nobody is watching, & when he has nothing to gain. The rest is self-promotion, social climbing, or profit seeking.
+-- x\@pallnandi] * A person’s music taste can actually tell their intelligence level.
+-- x\@signulll] * the highest signal trait in a person is the quality of their questions.
+-- x\@tylerdurden] * People ask you what you do for a living so they can decide what level of respect to give you.
+-->
 
 > *"Judge a man by his questions, not by his answers."  
 -- Voltaire [1694]*
@@ -733,7 +817,8 @@ Judge people by their habits, not words. Watch how they treat those who can’t 
 > *"I do not know any other form of superiority but kindness."  
 -- Ludwig van Beethoven [1770]*
 
-> *"Nearly all men can stand adversity, but if you want to test a man’s character, give him power."  
+> *"I don’t like that man. I must get to know him better." (...)  
+"Nearly all men can stand adversity, but if you want to test a man’s character, give him power."  
 -- Abraham Lincoln [1809]*
  
 > *"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."  
@@ -766,7 +851,7 @@ Judge people by their habits, not words. Watch how they treat those who can’t 
 -- Kevin Kelly [1952]*
 
 > *"We don’t judge people when we feel good about ourselves."  
--- Brene Brown [1965]*
+-- Brené Brown [1965]*
 
 > *"Cynicism is easy. Mimicry is easy. Optimistic contrarians are the rarest breed." (...)  
 "The more easily you get offended, the less intelligent you actually are."  
@@ -783,9 +868,11 @@ Judge people by their habits, not words. Watch how they treat those who can’t 
 ## On humanness and irrationality
 
 <!--
-- study why selling to woman is easier. study why companies hire men with kids or debt. study why the rich donate money to their local church. study why people give bonuses to their vas or employees. once u learn human psychology. its over my nigga
-- web3 assumes that people prefer privacy over free stuff, which is false.
-- If you make people think they’re thinking, they’ll love you; but if you really make them think they’ll hate you.
+-- x\@lichthauch] * People want to kill their demons not realizing the demon is the only thing casting enough shadow for the angel to become visible
+
++ study why selling to woman is easier. study why companies hire men with kids or debt. study why the rich donate money to their local church. study why people give bonuses to their vas or employees. once u learn human psychology. its over my nigga
++ web3 assumes that people prefer privacy over free stuff, which is false.
++ If you make people think they’re thinking, they’ll love you; but if you really make them think they’ll hate you.
 -->
 
 > *"If a man gets lost in the mountains, hundreds will search and often two or three searchers are killed. But the next time somebody gets lost, just as many volunteers turn out. Poor arithmetic, but very human. It runs through all our folklore, all human religions, all our literature—a racial conviction that when one human needs rescue, others should not count the price. Weakness? It might be the unique strength that wins us a Galaxy."  
@@ -853,19 +940,19 @@ Most people repeat the same year expecting different results.
 
 <!--
 > *"Documentation is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing."  -- Dick Brandon*
-> *"I do not believe that this generation of Americans is willing to resign itself to going to bed each night by the light of a Communist moon..."  -- Lyndon B. Johnson*
-> *"I think trash is the most important manifestation of culture we have in my Lifetime."  -- Johnny Legend*
-> *"Old musicians never die, they just decompose."*
 > *"I couldn’t be a doctor... it doesn’t change the world enough and you don’t actually earn that much."  -- vox populi {in San Francisco}*
-> *"The grass is always greener on the side that is fertilized with bullshit."  -- x@morganhousel*
-> *"When you’re up to your nose in shit, keep your mouth shut."  -- (fictional) Jack Beauregard*
-> *"The four most expensive words in the English language: «This time is different»."  
-> *"Mathematicians look down on physicists, who look down on engineers, who look down on designers. And designers look down on everyone."  
+> *"I do not believe that this generation of Americans is willing to resign itself to going to bed each night by the light of a Communist moon..."  -- Lyndon B. Johnson*
 > *"I miss being the age when I thought I would have my shit together by the time I was the age I am now." (...)  
-"Sex, like pizza, when it’s good is good. When it’s bad it gets in your shirt." (...)  
-"There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog. What’s the man there for? His job is to feed the dog. What’s the dog for? The dog keeps the man from touching any of the machines." (...)  
+> *"I think trash is the most important manifestation of culture we have in my Lifetime."  -- Johnny Legend*
+> *"Mathematicians look down on physicists, who look down on engineers, who look down on designers. And designers look down on everyone."  
+> *"Old musicians never die, they just decompose."*
+> *"Sex, like pizza, when it’s good is good. When it’s bad it gets in your shirt." (...)  
+> *"Society: Be yourself. Society: Not like that."  -- vox populi*
+> *"The four most expensive words in the English language: «This time is different»."  
+> *"The grass is always greener on the side that is fertilized with bullshit."  -- x@morganhousel*
+> *"There’s a great joke about an automated car plant in Japan, where the machines work in the dark and there are only two living things authorized to be on the factory floor – a man and a dog. What’s the man there for? His job is to feed the dog. What’s the dog for? The dog keeps the man from touching any of the machines." (...)  
 > *"Two economists are walking along the street, and one says, «Hey, someone dropped a $20 bill!» and the other says, «Well, it can’t be a real $20 bill because someone would have picked it up already.»" (...)  
-"Society: Be yourself. Society: Not like that."  -- vox populi*
+> *"When you’re up to your nose in shit, keep your mouth shut."  -- (fictional) Jack Beauregard*
 
 ### Where is home? 
 > *"Home is where the bra isn’t." (...)  "Home is where the parking lot is."  -- vox populi*
@@ -875,7 +962,7 @@ Most people repeat the same year expecting different results.
 > *"I really don’t know what «I love you» means. I think it means «don’t leave me here alone»."  -- Neil Gaiman [1960]*
 > *"What you call love was invented by guys like me to sell nylons."  -- Don Draper [fiction]*
 
-- which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
++ which is more hipster: using the latest modern web framework, or bragging about how you don’t use modern web frameworks?
 -->
 
 > *"Only the truth is funny."  
@@ -909,6 +996,12 @@ They observe hidden life truths everyone knows but nobody articulates. The truer
 
 
 ## On philosophy
+
+<!--
+> *"The doers are the major thinkers."  -- Steve Jobs*
+
+-- x\@signulll] * modernity is a race to the bottom on who cares less.
+-->
 
 > *"The aim of philosophy is the logical clarification of thought. Philosophy is not a theory but an activity."  
 -- Ludwig Wittgenstein [1889]*
@@ -946,6 +1039,12 @@ Philosophy improves your intellectual rigor.
 
 ## On religion
 
+<!--
+-- x\@alexbeauchamp3] * It’s so fascinating that I have more people questioning my sanity since finding Christ than I did when I was on the fast track to hell
+-- x\@redatheart0] * Most religious people believe in scriptures more than they believe in God, some never even experienced God.
+-- x\@thomassowell] * Elon Musk: "When you have a decline in religion and increase in secular nature of society, for most people, they need something to fill that void, and they adopt… woke… that takes the place of religion."
+-->
+
 > *"The main purpose of religion is not to affirm that there is a God, but to prevent humans from thinking they are Gods."  
 -- Nassim Taleb [1960]*
 
@@ -965,7 +1064,7 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 > *"Here the ways of men part: if you wish to strive for peace of soul and pleasure, then believe; if you wish to be a devotee of truth, then inquire."  
 -- Friedrich Nietzsche [1844]* 
 
-> *"Religion is like a blind man looking in a black room for a black cat that isn't there, and finding it."  
+> *"Religion is like a blind man looking in a black room for a black cat that isn’t there, and finding it."  
 -- Oscar Wilde [1854]*
 
 > *"God has no religion."  
@@ -1007,6 +1106,10 @@ Against facts there are no arguments. Against faith there are no facts. Religion
 -- x@pmddomingos*
 
 ### On morality
+
+<!--
+-- x\@unmodernmanbot] * The greatest mistake is believing morality protects you from power dynamics. It doesn’t. It only protects you from seeing them clearly. The man who understands human nature does not abandon ethics; he abandons naïveté, and replaces it with awareness, restraint, and deliberate action.
+-->
 
 > *"Compassion is the basis of morality."  
 -- Arthur Schopenhauer [1788]*
@@ -1098,10 +1201,15 @@ Morality is drawing a line someplace.
 ## On science
 
 <!--
-- athenian and italian city states and free form usa were hotbeds for innovation. there was lot of competition. enlightment was a revolution in how people sought knowledge: by trying not to rely on authorithy. wild west, the frontire is always filled with crime and scams and weid stuff and people but it’s where innovation occurs also.
-- look at ideas individually not at the ism
-- making something social destroys truth of it because social groups need consensus to survive — otherwise they fight and can’t get along — and consensus is all about truth seeking. social sciences need to appeal to society for funding so they are politically motivated.
-- Money is a shared belief. So is a border. So are bitcoins. The list goes on.
+-- x\@elonmusk] * Matter, Energy & Intelligence
+-- x\@naval] * "Mental illness" is to illness as "social science" is to science.
+-- x\@pmddomingos] * Don’t blame AI for science slop. We were drowning in it long before.
+-- x\@raggedy_manican -LLMs are remarkably effective decompressors of algorithmic information, and their success in theorem-proving and software development is a testament to that. Their capabilities in compression currently seem less clear.
+
++ Athenian and Italian city states and free form usa were hotbeds for innovation. there was lot of competition. enlightenment was a revolution in how people sought knowledge: by trying not to rely on authority. wild west, the frontier is always filled with crime and scams and weird stuff and people but it’s where innovation occurs also.
++ look at ideas individually not at the ism
++ making something social destroys truth of it because social groups need consensus to survive — otherwise they fight and can’t get along — and consensus is all about truth seeking. social sciences need to appeal to society for funding so they are politically motivated.
++ Money is a shared belief. So is a border. So are bitcoins. The list goes on.
 -->
 
 > *"The whole of science is nothing more than a refinement of everyday thinking." (...)  
@@ -1168,24 +1276,40 @@ Science transforms raw materials (resources) into civilization. Technology is ap
 ## On maths and computers
 
 <!--
-+ x@naval -- Show me your axioms and I’ll show you your conclusions.
-+ x@nivi -- The funny thing is incompressible = compressed.
-+ x@nntaleb -- The more something is perceived as stable, the worse the fall.
-+ x@pmddomingos -- Intelligence is heuristics + compute. Don’t mistake more compute for better heuristics.
-+ x@superintoit -- look at your actions to determine your axioms. reverse engineered authenticity
-+ x@yacineMTB -- LLMs turn 10x engineers into 1000x engineers, and 1x engineers into 0.1x engineers
+> *"Mathematics is principally a tool to meditate, rather than to compute."  -- Nassim  Taleb in Fooled by Randomness*
 
-- 90% of webapps are database frontends. / There is no cloud. It’s just someone else’s computer. / a fundamental rule of technology: There is no third ecosystem
-- hash is a fingerprint of an amount of information. SHA256 -> 64 characters
-- Top dev skills: Ability to ignore new tools and technologies; Taste for simplicity; Good code deletion skills; Humility.
-- blockchains are not personal-computing operational systems; they are social systems.
+-- x\@alz_zyd_] * Intelligence is now free and the golden age of the nerd is over
+-- x\@arpitrage] * Nerds had one brief moment in the sun and immediately invented their replacements
+-- x\@drdominicng] * Chess is 30 years ahead of every other profession in dealing with AI. The best case study we have for what’s coming. 4 lessons: 1. Human-AI collaboration had a 15-year shelf life in chess. "Human in the loop" is a phase. In 2005, two amateurs with laptops beat grandmasters and supercomputers by combining human + machine input better. By 2026, adding a human to an engine makes it play worse. 2. Magnus Carlsen - the best player alive - deliberately uses AI less than his competitors. AI-prepped ideas collapse the moment something unexpected happens - The opponent plays a weird move. - The client pushes back.- The investor asks a question you didn’t anticipate. 3. Building skills without AI makes you a better AI user later. The current world champion trained without engines for years. You can’t supervise AI in a domain you never learned to think in yourself. 4. AI makes it hard to tell who’s cheating - Did they write that essay? - Did they build that portfolio? - Did they solve that take-home or did ChatGPT? The interview question changes from "what did you produce?" to "can you think in front of me?" -> @JoseFerreiraEDU - Chess may seem strong evidence b/c 30 yrs ahead. It’s actually weakest possible evidence b/c it’s zero-sum perfect information game, all permutations knowable in advance. Writing fiction has infinite permutations both in how it’s created & received. Humans will be in loop forever
+-- x\@getjonwithit] * I think one of the conclusions we should draw from the tremendous success of LLMs is how much of human knowledge and society exists at very low levels of Kolmogorov complexity.
+-- x\@naval] * Show me your axioms and I’ll show you your conclusions.
+-- x\@naval] * UI is pre-AI.
+-- x\@nivi] * The funny thing is incompressible = compressed.
+-- x\@nntaleb] * The more something is perceived as stable, the worse the fall.
+-- x\@pmddomingos] * AI is the universal solvent.
+-- x\@pmddomingos] * Humans are the gut bacteria of super-intelligence.
+-- x\@pmddomingos] * Intelligence is heuristics + compute. Don’t mistake more compute for better heuristics.
+-- x\@pmddomingos] * The mind is complex. The heart is simple.
+-- x\@pmddomingos] * Who would have thought that AI would be hardware’s revenge?
+-- x\@rishabrao_] * Nerds still have bigger context window
+-- x\@superintoit] * look at your actions to determine your axioms. reverse engineered authenticity
+-- x\@victorianoi] * In 20 years, vibe coders will look at the Linux kernel repo the way we look at the pyramids. In awe, unable to imagine how they managed to drag all those giant stones and pile them up in the middle of the desert.
+-- x\@wisdomtldr] * Do LLMs imply the triumph of the ’generalists’?
+-- x\@wisdomtldr] * People are just sophisticated stochastic parrots.
+-- x\@yacinemtb] * LLMs turn 10x engineers into 1000x engineers, and 1x engineers into 0.1x engineers
 
-alan perlis -- 1. One man’s constant is another man’s variable.
-alan perlis -- 21. Optimization hinders evolution.
-alan perlis -- 58. Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
-alan perlis -- 105. You can’t communicate complexity, only an awareness of it.
-alan perlis -- 120. Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
-
++ People see «AI» and they attribute some sci-fi thing to it when it’s just search and optimization. Always has been, and if you paid attention in CS class, you know the limits of those things.  -- geohot
++ nerds killed themselves, again
++ It’s why LLMs are also lacking in true creativity. Creativity is normalizing the edge cases, something that cannot be done by regression to the mean.
++ 90% of webapps are database frontends. / There is no cloud. It’s just someone else’s computer. / a fundamental rule of technology: There is no third ecosystem
++ hash is a fingerprint of an amount of information. SHA256 -> 64 characters
++ Top dev skills: Ability to ignore new tools and technologies; Taste for simplicity; Good code deletion skills; Humility.
++ blockchains are not personal-computing operational systems; they are social systems.
++ alan perlis -- 1. One man’s constant is another man’s variable.
++ alan perlis -- 21. Optimization hinders evolution.
++ alan perlis -- 58. Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
++ alan perlis -- 105. You can’t communicate complexity, only an awareness of it.
++ alan perlis -- 120. Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
 -->
 
 > *"We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins."  
@@ -1193,7 +1317,7 @@ alan perlis -- 120. Adapting old programs to fit new machines usually means adap
 
 We’ve grown dependent on three simple features that aren’t available in the analog world: search, sort and filter.
 
-Being relevant in the LLM age is hard. What’s left for humans? The physical world and feeding real-time news into it. LLMs are connection machines, an autocorrect on steroids. They offer paraphrases; search engines offer quotes. LLMs are blurry JPEGs of the web.
+Being relevant in the LLM age is hard. What’s left for humans? The physical world and feeding real-time news into it. LLMs are connection machines, an auto-correct on steroids. They offer paraphrases; search engines offer quotes. LLMs are blurry JPEGs of the web.
 
 > *"As far as the laws of mathematics refer to reality, they are not certain, as far as they are certain, they do not refer to reality."  
 -- Albert Einstein [1879]*
@@ -1226,7 +1350,7 @@ Being relevant in the LLM age is hard. What’s left for humans? The physical wo
 -- Elon Musk [1971]*
 
 > *"AI won’t replace programmers, but rather make it easier for programmers to replace everyone else." (...)  
-"Automation means not having to do anything twice. Automation with the Internet means not having to do anything that anyone else has already done. All that remains are creativity and judgement."  
+"Automation means not having to do anything twice. Automation with the Internet means not having to do anything that anyone else has already done. All that remains are creativity and judgment."  
 -- Naval Ravikant [1974]*
 
 > *"Humans raise the ceiling, AI raises the floor"  
@@ -1260,10 +1384,21 @@ Being relevant in the LLM age is hard. What’s left for humans? The physical wo
 
 ## On art
 
+<!--
+> *"Art is the highest form of hope." — Gerhard Richter [1932]*
+> *"No one has ever written, painted, sculpted, modeled, or invented except literally to get out of hell."  -- Antonin Artaud*
+
+-- x\@seasoul86] * The poets I’ve met all know how to kill from having mastered the art of dying.
+-- x\@wisdomtldr] * If men knew how to cry there would be no poetry.
+
++ Art is defined as what pushes the boundaries of civilization.  -- geohot
++ Art is defined by what is expensive. What is rare. What is expectation breaking. What is embedded in a complex and thriving culture. Not slop produced by a parrot like Marvel movies.  -- geohot
+-->
+
 > *"Science is what we understand well enough to explain to a computer. Art is everything else we do."  
 -- Donald Knuth [1938]*
 
-Art is just another form of screaming, it should confort the disturbed and disturb the confortable. Life imitates art. 
+Art is just another form of screaming, it should comfort the disturbed and disturb the comfortable. Life imitates art. 
 
 > *"The merit of originality is not novelty; it is sincerity."  
 -- Thomas Carlyle [1795]*
@@ -1314,7 +1449,7 @@ Art is just another form of screaming, it should confort the disturbed and distu
 > *"Art is the absence of fear."  
 -- Erykah Badu [1971]*
 
-> *"Art should comfort the disturbed and disturb the confortable."  
+> *"Art should comfort the disturbed and disturb the comfortable."  
 -- Banksy [1974]*
 
 > *"If you create it for yourself, it’s art. If you create it for others, it’s business." (...)  
@@ -1331,6 +1466,10 @@ Art is just another form of screaming, it should confort the disturbed and distu
 -- x@ottophobia*
 
 ### On artists
+
+<!--
+> *"Designers don’t retire, we die."  -- Zeldman*
+-->
 
 > *"An artist is someone who has learned to trust in himself."  
 -- Ludwig van Beethoven [1770]*
@@ -1376,6 +1515,10 @@ Most people with good taste are young and poor. Creators don’t separate from t
 -- Tim Burton [1958]*
 
 ### On aesthetics
+
+<!--
+-- x\@redatheart0] "Beauty is a divine code"
+-->
 
 > *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."  
 -- Antoine de Saint Exupery [1900]*

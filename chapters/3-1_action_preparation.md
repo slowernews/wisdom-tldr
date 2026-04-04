@@ -6,9 +6,11 @@
 > *"Society may give an exclusive right to the profits arising from them, as an encouragement to men to pursue ideas which may produce utility, but this may or may *not be done, according to the will and convenience of the society, without claim or complaint from any body.*
 > *"The best defense against logic is ignorance.*
 
-- If you want new ideas read old books.
-- Be creative: Creativity conquers jealousy, envy, self-pity and worry. 52 approaches in a year is more than most men make in a lifetime. Consistency is everything. e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts
-- destruição criativa
+-- x\@naval] * Creativity is the antidote to scarcity.
+
++ If you want new ideas read old books.
++ Be creative: Creativity conquers jealousy, envy, self-pity and worry. 52 approaches in a year is more than most men make in a lifetime. Consistency is everything. e.g. water, blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds and nuts
++ destruição criativa
 -->
 
 > *"The secret to creativity is knowing how to hide your sources."  
@@ -101,7 +103,7 @@ Changes in the environment unlock opportunities. Creativity is a muscle, it atro
 > *"The secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours."  
 -- Amos Tversky [1937]*
 
-> *"Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgement."  
+> *"Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgment."  
 -- Kevin Kelly [1952]*
 
 > *"Using creativity to solve problems cannot be taught, and it’s ultimately what free markets pay for." (...)  
@@ -150,7 +152,7 @@ However, the right idea unexecuted is worthless and a mediocre one well executed
 > *"New ideas pass through three periods: 1) It can’t be done; 2) It probably can be done, but it’s not worth doing; 3) I knew it was a good idea all along!"  
 -- Arthur C. Clarke [1917]*
 
-> *"Creativity and critical thinking: In subordinate position it gets you labelled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing."  
+> *"Creativity and critical thinking: In subordinate position it gets you labeled a dreamer, a weirdo, or an idiot. In executive position, visionary, maverick, multidisciplinary thinker, etc. You can only truly creative in a position with autonomy, so you either climb the ladder or start your own thing."  
 -- hn@dilemma*
 
 > *"Ideas by themselves are roughly worthless. There’s no market for them. There’s no place where one can go and buy an idea. Describing your idea in detail doesn’t mean other people will copy it. First they’ll have to be convinced it’s a good idea. If you ever tried to change anyone else’s mind you know by now how hard that is. Not even founders themselves can predict how well their own ideas will do. And even if people are convinced your idea is a good idea, they’ll still have to compare it to the existing idea they are already working on and see which one they’re more likely to do well with."  
@@ -164,24 +166,28 @@ However, the right idea unexecuted is worthless and a mediocre one well executed
 ## On analysis
 
 <!--
-+ x@rapahelz -- The hallmark of clear thinking is skepticism with regard to dominant narratives.
-+ x@wordgrammer -- Reality is very complex. If you try to understand every situation from every possible perspective, you will spend all of your time learning, but you won’t get anything done. Biases are good.
-> *"Reality is that which does not go away when you stop thinking about it."  -- Naval Ravikant [1974]*
 > *"All the ways of a man are clean in his own sight, but the Lord weighs the motives."  -- Proverbs 16:2*
+> *"Don’t look for pleasure in convents, love in bordellos, intellect on campuses, wisdom in senates, nobility in law firms, & literature in Vegas"  -- Nassim Taleb
 > *"If you want to know how good a surgeon is, don’t ask other doctors. Ask the nurses."*
+> *"Reality is that which does not go away when you stop thinking about it."  -- Naval Ravikant [1974]*
 
-- if you want to understand how to fix a problem in the world, you have to ask who is profiting from the problem. Not who is suffering from it.
-- It’s less about the past men than the future men. Past actions predict future actions. Hoeing around, then getting scared and wanting to "settle down", is basically a guarantee that she has no intention of changing her behavior. She’s just realizing how much she has to lie. Never forget: Your word is your power.
-- We overlook major flaws in those we like. And exaggerate minor faults in those we don’t.
-- As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths — even those that had seemed so certain as to be immune to the very possibility of revision — are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth.
-- Everybody is a genious but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
-- if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
-- Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
-- tese antitheses -> syntesis
-- The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
-- The very act of stopping to think before you say or do anything almost always improves the quality of your ultimate response.
-- Two people with opposing views on a topic can see the same evidence, and still come away both validated by it. Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts. Accepting information which confirms our beliefs is easy and requires little mental energy.
-Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that «things fall down». You then attempt to prove the opposite—«things fall up». If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct. You need to search out disconfirming evidence.
+-- x\@emizione] * Taste is not a skill it’s a skill issue
+-- x\@rapahelz] * The hallmark of clear thinking is skepticism with regard to dominant narratives.
+-- x\@wisdomtldr] * Things are rarely as good or as bad as they seem.
+-- x\@wordgrammer] * Reality is very complex. If you try to understand every situation from every possible perspective, you will spend all of your time learning, but you won’t get anything done. Biases are good.
+
++ if you want to understand how to fix a problem in the world, you have to ask who is profiting from the problem. Not who is suffering from it.
++ It’s less about the past men than the future men. Past actions predict future actions. Hoeing around, then getting scared and wanting to "settle down", is basically a guarantee that she has no intention of changing her behavior. She’s just realizing how much she has to lie. Never forget: Your word is your power.
++ We overlook major flaws in those we like. And exaggerate minor faults in those we don’t.
++ As Rebecca Goldstein wrote in Incompleteness: The Proof and Paradox of Kurt Godel: All truths — even those that had seemed so certain as to be immune to the very possibility of revision — are essentially manufactured. Indeed, the very notion of the objectively true is a socially constructed myth.
++ Everybody is a genious but if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
++ if you tell someone the person they’re about to meet is extroverted, they’re more likely to describe them as extroverted.
++ Simple rules focus on the critical variables that govern a situation and help you ignore the peripheral ones. Of course, in order to identify the key variables, you need to be operating in your circle of competence.
++ tese antitheses -> synthesis
++ The first time it breaks, you blame the manufacturer. The second time, and every time after that, you blame the repair shop. For a repair shop, servicing appliances from a bad vendor can damage your reputation. Since then, every time I make an appliance purchase – vacuum cleaner, dishwasher, car – I go to a repair shop. They’re always excited to talk to someone who will listen. They may even have a used model that will last you for years.
++ The very act of stopping to think before you say or do anything almost always improves the quality of your ultimate response.
++ Two people with opposing views on a topic can see the same evidence, and still come away both validated by it. Evaluating evidence (especially when it is complicated or unclear) requires a great deal of mental energy. Our brains prefer to take shortcuts. Accepting information which confirms our beliefs is easy and requires little mental energy.
++ Create a negative or reverse hypothesis. This is the opposite of your initial theory. For example, you are Isaac Newton, and the idea of gravity has just occurred to you. Your initial hypothesis would be that «things fall down». You then attempt to prove the opposite—«things fall up». If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct. You need to search out disconfirming evidence.
 -->
 
 > *"There are no facts, only interpretations."  
@@ -333,8 +339,12 @@ Look for what doesn’t make sense, that’s where the opportunity hides. Pay at
 ### On truth
 
 <!--
-- A verdade, quando muito desagradável, quando ofende os nossos pruridos sensíveis, quando vai contra a realidade virtual que imaginamos ser a verdadeira, é discurso de ódio?
-- "A verdade é filha do tempo."
+> *"Truth has nothing to do with the number of people it convinces."  -- Paul Claudel*
+
+-- x\@itishoemath] * Jordan Peterson once said something... I can’t remember it word for word but I’ll paraphrase: "you can’t break the truth. You can bend it, but the harder you bend it, the harder it snaps back at you."
+
++ A verdade, quando muito desagradável, quando ofende os nossos pruridos sensíveis, quando vai contra a realidade virtual que imaginamos ser a verdadeira, é discurso de ódio?
++ "A verdade é filha do tempo."
 -->
 
 > *"The truth does not require your participation in order to exist. Bullshit does."  
@@ -387,7 +397,8 @@ The ones trying to silence others are usually the ones lying. Call a rich man po
 > *"Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened."  
 -- Winston Churchill [1874]*
 
-> *"The further a society drifts from the truth the more it will hate those who speak it." (...)  
+> *"The past was erased, the erasure was forgotten, the lie became the truth." (...)  
+"The further a society drifts from the truth the more it will hate those who speak it." (...)  
 "In a time of universal deceit, telling the truth is a revolutionary act."  
 -- George Orwell [1903]*
 
@@ -404,7 +415,7 @@ The ones trying to silence others are usually the ones lying. Call a rich man po
 > *"The truth will set you free, but first it will piss you off."  
 -- Gloria Steinem [1934]*
 
-> *"I never lie because I don't fear anyone. You only lie when you're afraid."  
+> *"I never lie because I don’t fear anyone. You only lie when you’re afraid."  
 -- John Gotti [1940]*
 
 > *"The best way to get a correct answer on the internet is to post an obviously wrong answer and wait for someone to correct you."  
@@ -426,7 +437,7 @@ The ones trying to silence others are usually the ones lying. Call a rich man po
 "Truth is that which, once you see it, you can’t unsee it." (...)  
 "Mystics search for truth — the truth of what is. Scientists search for truth — the truth of how it works. Entrepreneurs search for truth — the truth of what people want." (...)  
 "Truth-seekers take feedback from nature (planes have to fly), free markets (customers have to buy), or competition (militaries have to win). Consensus-seekers take feedback from people (actors want fans, academics want honors, politicians want votes, journalists want status)." (...)  
-"The more people in the conversation the harder it becomes to speak the unconfortable truth. Social media puts everybody in the same conversation."  
+"The more people in the conversation the harder it becomes to speak the uncomfortable truth. Social media puts everybody in the same conversation."  
 -- Naval Ravikant [1974]*
 
 > *"People don’t realize how hard is to speak the truth, to a world full of people that don’t realize they’re living in a lie."  
@@ -446,12 +457,14 @@ The ones trying to silence others are usually the ones lying. Call a rich man po
 ## On planning and strategy
 
 <!--
-- What you think is your problem is not your problem, your strategy is.
-- 20% of the game is strategy. 80% of the game is not quitting.
-- a dream written down with a date becomes a goal. a goal broken down into steps becomes a plan. a plan backed by action becomes reality.
-- Don’t tell everyone your plans, instead show them your results.
-- The Romans removed the soldiers’ incentive to be a coward and hurt others thanks to a process called decimation. If a legion loses a battle and there is suspicion of cowardice, 10 percent of the soldiers and commanders are put to death, usually by random lottery.
-- "every pattern is a map"
+-- x\@naval] * Plan as if you were going to live forever, act as if you were going to die tomorrow.
+
++ What you think is your problem is not your problem, your strategy is.
++ 20% of the game is strategy. 80% of the game is not quitting.
++ a dream written down with a date becomes a goal. a goal broken down into steps becomes a plan. a plan backed by action becomes reality.
++ Don’t tell everyone your plans, instead show them your results.
++ The Romans removed the soldiers’ incentive to be a coward and hurt others thanks to a process called decimation. If a legion loses a battle and there is suspicion of cowardice, 10 percent of the soldiers and commanders are put to death, usually by random lottery.
++ "every pattern is a map"
 -->
 
 > *"All battles are won or lost before they are ever fought."  
@@ -558,30 +571,33 @@ Plans are only a starting point. Choose flexible plans with options. A good plan
 <!--
 > *"My brother says to never make a big decision before you take a shower."*
 > *"Se não houvesse decisoes eramos todos iguais."  -- António Simões*
-> *"When you renounce something, you’re stuck to it forever."  -- Anthony de Mello [1931]*
+> *"When you renounce something, you’re stuck to it forever."  -- Anthony de Mello [1931]*  
+> *"A man who procrastinates in his choosing will inevitably have his choice made for him by circumstance."  -- Hunter S. Thompson*
 
-- a good decision is risking little for the opportunity to gain a lot. and vice-versa.
-- Actions > Thoughts; Actions change the world. Not beliefs.
-- As further guidance, Bezos considers 70% certainty to be the cut-off point where it is appropriate to make a decision. That means acting once we have 70% of the required information, instead of waiting longer. Making a decision at 70% certainty and then course-correcting is a lot more effective than waiting for 90% certainty.
-- Ask yourself «does this decision require fast or slow thinking? 
-- Beliefs lag behind reality. But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
-- Blue collar want to feel the same as others. White collar want to feel different from others.
-- Consensus happens just in the beginning and in the end of something.
-- decisions are tainted by the emotional investments you accumulate, and the more you invest in something the harder it becomes to abandon it.
-- estimates are promises. What makes promises special is that once you promise something it is expected that you ACT upon realizing it. No one that has no ’skin in the game’ should give estimates.
-- everything is a trade-off.
-- find 3 people that high expertise but that they discord and listen. take your conclusions
-- for every complex problem there is an answer that is clear, simple, and wrong.
-- indecision comes from not knowing what you want. they don’t know what matters to them nor have found something larger then themselves to commit to.
-- Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
-- Occam’s razor states that the simplest solution is usually correct.
-- people are punished for bad decisions and rarely rewarded for good decisions.
-- the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
-- The Problems With Goals: Goals have an endpoint. Goals rely on factors which we do not always have control over. Goals rely on willpower and self-discipline. Goals can make us complacent or reckless.
-- Wait 48 hours before buying stuff
-- With practice, we also get better at recognizing bad decisions and pivoting, rather than sticking with past choices due to the sunk costs fallacy. Equally important, we can stop viewing mistakes or small failures as disastrous and view them as pure information which will inform future decisions.
-- you must learn to proceed without certainty.
-- Your product is decisions.
+-- x\@kpaxs] * The first law of decision hygiene is that most decisions do not benefit from extra time.
+
++ a good decision is risking little for the opportunity to gain a lot. and vice-versa.
++ Actions > Thoughts; Actions change the world. Not beliefs.
++ As further guidance, Bezos considers 70% certainty to be the cut-off point where it is appropriate to make a decision. That means acting once we have 70% of the required information, instead of waiting longer. Making a decision at 70% certainty and then course-correcting is a lot more effective than waiting for 90% certainty.
++ Ask yourself «does this decision require fast or slow thinking? 
++ Beliefs lag behind reality. But think about some of the things you believed ten years ago… aren’t you embarrassed by some of them? Don’t you wonder how you could’ve ever believed something so ridiculous? Yeah. Exactly. So what are you going to think about the beliefs you have now in ten years?
++ Blue collar want to feel the same as others. White collar want to feel different from others.
++ Consensus happens just in the beginning and in the end of something.
++ decisions are tainted by the emotional investments you accumulate, and the more you invest in something the harder it becomes to abandon it.
++ estimates are promises. What makes promises special is that once you promise something it is expected that you ACT upon realizing it. No one that has no ’skin in the game’ should give estimates.
++ everything is a trade-off.
++ find 3 people that high expertise but that they discord and listen. take your conclusions
++ for every complex problem there is an answer that is clear, simple, and wrong.
++ indecision comes from not knowing what you want. they don’t know what matters to them nor have found something larger then themselves to commit to.
++ Knowledge is always moving forward, and it’s probably moving forward a lot faster now than it ever has been. So if we’re going to assume anything, it shouldn’t be that we’re right, but that we’re wrong. Better to be a skeptic than to be delusional.
++ Occam’s razor states that the simplest solution is usually correct.
++ people are punished for bad decisions and rarely rewarded for good decisions.
++ the most important decision that you will make is not whether or not you should start something, but whether or not you should stay with something.
++ The Problems With Goals: Goals have an endpoint. Goals rely on factors which we do not always have control over. Goals rely on willpower and self-discipline. Goals can make us complacent or reckless.
++ Wait 48 hours before buying stuff
++ With practice, we also get better at recognizing bad decisions and pivoting, rather than sticking with past choices due to the sunk costs fallacy. Equally important, we can stop viewing mistakes or small failures as disastrous and view them as pure information which will inform future decisions.
++ you must learn to proceed without certainty.
++ Your product is decisions.
 -->
 
 > *"May your choices reflect your choices, not your fears."  
@@ -615,9 +631,9 @@ Getting 80% good decisions is exponentially better than 70%. We think we make ch
 
 > *"Clear thinkers take feedback from reality, not society." (...)  
 "The three big decisions: where you live, who you’re with, and what you’re doing." (...)  
-"In the age of infinite leverage, judgement is the most important skill." (...)  
+"In the age of infinite leverage, judgment is the most important skill." (...)  
 "Clear thinking comes from having time to reflect and pursue your genuine intellectual curiosity." (...)  
-"The only part you can’t outsource is judgement." (...)  
+"The only part you can’t outsource is judgment." (...)  
 "The heart decides. The head rationalizes." (...)  
 "You’re always making the best choice based on your current understanding. Don’t try to change the choice, change the understanding." (...)  
 "If you want to make the wrong decision, ask everyone."  
@@ -684,18 +700,18 @@ Hints:
 ### On mental models
 
 <!--
-market: supply and demand explain a lot of phenomenons
-macro scale — high level / micro scale — low level: https://en.wikipedia.org/wiki/Level_of_analysis — everything is a system
-high tech way / low tech way 
-everything is: http://c2."*com/cgi/wiki?EverythingIsa start from a main idea, then diverge
-momentum: virtuous circle / vicious circle
-spaced learning system: anki, supermemo, goldenlist
-programming languages: type annotation theory / OO vs functional paradigm
-log scales: hyperbolic function — pareto law 80/20 — plateaus
-noise rate
-framing = everything is
-80% man are stronger than 80% woman
-A Jevons Effect[1] in a web site’s bandwidth! When an increase in the efficiency with which a resource is used causes total usage to increase.
++ market: supply and demand explain a lot of phenomenons
++ macro scale — high level / micro scale — low level: https://en.wikipedia.org/wiki/Level_of_analysis — everything is a system
++ high tech way / low tech way 
++ everything is: http://c2."*com/cgi/wiki?EverythingIsa start from a main idea, then diverge
++ momentum: virtuous circle / vicious circle
++ spaced learning system: anki, supermemo, goldenlist
++ programming languages: type annotation theory / OO vs functional paradigm
++ log scales: hyperbolic function — pareto law 80/20 — plateaus
++ noise rate
++ framing = everything is
++ 80% man are stronger than 80% woman
++ A Jevons Effect[1] in a web site’s bandwidth! When an increase in the efficiency with which a resource is used causes total usage to increase.
 -->
 
 > *"All models are wrong but some are useful."  

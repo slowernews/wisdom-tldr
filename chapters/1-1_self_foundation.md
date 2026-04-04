@@ -3,11 +3,15 @@
 ## On autonomy
 
 <!--
-- Bees don’t waste their time explaining to flies that flowers taste better than shit.
-- Cutting off people who drained my energy. Reading more than I scrolled. Lifting weights instead of lifting burdens that weren’t mine. Choosing discipline over dopamine. And realizing this harsh truth: You don’t need more time. You need fewer distractions. Do that early and your life levels up ruthlessly fast.
-- Don’t build your castle in other peoples kingdom’s.
-- Freedom to -> freedom from -- naval
-- when you don’t want to be interesting you are free. -- moojy
+> *"I don’t particularly care if we’re liked by the rest of the world. I care if we’re respected."  -- Rupert Lowe*
+
++ x\@gaxrav] * to complete you, i emptied myself.
+
++ Bees don’t waste their time explaining to flies that flowers taste better than shit.
++ Cutting off people who drained my energy. Reading more than I scrolled. Lifting weights instead of lifting burdens that weren’t mine. Choosing discipline over dopamine. And realizing this harsh truth: You don’t need more time. You need fewer distractions. Do that early and your life levels up ruthlessly fast.
++ Don’t build your castle in other peoples kingdom’s.
++ Freedom to -> freedom from -- naval
++ when you don’t want to be interesting you are free. -- moojy
 -->
 
 > *"A man is free at the instant he wants to be."  
@@ -15,7 +19,7 @@
 
 Your autonomy is your major legacy.
 
-Once you’re «bought», it’s hard to escape. We all start wanting more independence, yet increasingly live dependent lifestyles. The bank owns us, work owns us. Stop codependence on others and prioritize self-care first. Energy and time are limited. Money, love, and prosperity follow. Healthy people respect boundaries. A boundary defines what you want (and don’t want) in the moment. Ask: «If I loved myself, would I do this?». Telling your truth isn’t selfish. What’s more selfless: ensuring you’re cared for so you can care for others, or draining yourself until burnt out, angry, and depressed? You can’t give what you lack. Serve yourself first, recharge, recuperate, invest in growth and education. Only then can you serve others fully.
+Once you’re «bought», it’s hard to escape. We all start wanting more independence, yet increasingly live dependent lifestyles. The bank owns us, work owns us. Stop codependency on others and prioritize self-care first. Energy and time are limited. Money, love, and prosperity follow. Healthy people respect boundaries. A boundary defines what you want (and don’t want) in the moment. Ask: «If I loved myself, would I do this?». Telling your truth isn’t selfish. What’s more selfless: ensuring you’re cared for so you can care for others, or draining yourself until burnt out, angry, and depressed? You can’t give what you lack. Serve yourself first, recharge, recuperate, invest in growth and education. Only then can you serve others fully.
 
 A shorter life facing fears beats one avoiding them.
 
@@ -69,12 +73,16 @@ A shorter life facing fears beats one avoiding them.
 ### On authenticity
 
 <!--
-- 5Cs: courage, congruence, confidence, calibration, conviction (integrity, honor, service, and generosity should be at the top of your list)
-- Core values: honesty everywhere. I dont want to be in place where I can’t be honest. I want to make relationships with a long term prospect. Flat hierarchy. I don’t want to be around hierarchical systems, I want to treat everybody as a peer. I don’t want to be around angry people.
-- Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
-- You are shaped by how you see others seeing you.
-- tetris taught me that when you try to fit in, you’ll disappear.
-- Honesty witout empathy is brutality. Empathy without honesty is manipulation.
++ x\@ravenbrood81] * if you can’t be honest with yourself, you can’t be honest with others
++ x\@talebwisdom] * "It is much easier for a criminal to fake being an honest person than for an honest person to fake being a criminal. Likewise it is easier for a fat-tailed distribution to fake being thin tailed than for a thin-tailed distributions to fake being fat tailed."
++ x\@tomieinlove] * I think 90% being charismatic is just having energy.
+
++ 5Cs: courage, congruence, confidence, calibration, conviction (integrity, honor, service, and generosity should be at the top of your list)
++ Core values: honesty everywhere. I don’t want to be in place where I can’t be honest. I want to make relationships with a long term prospect. Flat hierarchy. I don’t want to be around hierarchical systems, I want to treat everybody as a peer. I don’t want to be around angry people.
++ Work for a cause, not for applause. Live life to express, not to impress. Don’t strive to make your presence noticed, just make your absence felt.
++ You are shaped by how you see others seeing you.
++ tetris taught me that when you try to fit in, you’ll disappear.
++ Honesty without empathy is brutality. Empathy without honesty is manipulation.
 -->
 
 > *"When we see truth in a person we call it authenticity."  
@@ -82,7 +90,7 @@ A shorter life facing fears beats one avoiding them.
 
 Authenticity isn’t the presence of something, but the absence of everything inauthentic.
 
-If you’re trying to be authentic, you’re not being authentic. You don’t need to learn how to be authentic but to un-learn inauthenticity. The first step is to notice when it arises. Next, take a moment and have a laugh. Honesty is an antidote to impostor syndrome. Don’t try to be perfect, people know when they’re talking to the real thing. The more vulnerable you are, the more people will be able to relate to you. Truth is a better way to talk about ourselves. Personal branding will kill you. People justify all kinds of mistakes to preserve the personal narratives they are invested in. If something is holding you back, recognize it and fix it, but you don’t have to excel at everything. Find your context. If you try to be something you’re not, you end up being nothing.
+If you’re trying to be authentic, you’re not being authentic. You don’t need to learn how to be authentic but to unlearn inauthenticity. The first step is to notice when it arises. Next, take a moment and have a laugh. Honesty is an antidote to impostor syndrome. Don’t try to be perfect, people know when they’re talking to the real thing. The more vulnerable you are, the more people will be able to relate to you. Truth is a better way to talk about ourselves. Personal branding will kill you. People justify all kinds of mistakes to preserve the personal narratives they are invested in. If something is holding you back, recognize it and fix it, but you don’t have to excel at everything. Find your context. If you try to be something you’re not, you end up being nothing.
 
 > *"Do not try to seem wise to others."  
 -- Epictetus [0050]*
@@ -134,7 +142,9 @@ If you’re trying to be authentic, you’re not being authentic. You don’t ne
 ### On accountability
 
 <!--
-- every damn thing is your own fault, if you are any good. Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best. I approve of me. I take nothing she says seriously, helps me relax. Change your actions, not yourself. Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. A person who trusts no one now, once trusted someone too much.
+> *"Your reputation is harmed the most by what you say to defend it."  -- Nassim Taleb*
+
++ every damn thing is your own fault, if you are any good. Part of being a man is being a protector of everyone who comes into your life. Part of being a man is getting shit done. A real man loves problems. it’s an opportunity to do your best. I approve of me. I take nothing she says seriously, helps me relax. Change your actions, not yourself. Your identity is this made up thing that you’re emotionally attached to. It’s a mirage in the desert. And the quickest way to change yourself is to realize that there’s no real self to change. A person who trusts no one now, once trusted someone too much.
 -->
 
 > *"We are taught you must blame your father, your sisters, your brothers, the school, the teachers — but never blame yourself. It’s never your fault. But it’s always your fault, because if you wanted to change you’re the one who has got to change."  
@@ -178,7 +188,7 @@ You are your word. Trust, not money, is the currency of business and life. Take 
 > *"Whenever you think that some situation or some person is ruining your life, it’s actually you who are ruining your life. It’s such a simple idea. Feeling like a victim is a perfectly disastrous way to make go through life."  
 -- Charlie Munger [1924]*
 
-> *"It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently."  
+> *"It takes twenty years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently."  
 -- Warren Buffett [1930]*
 
 > *"I lie to myself all the time. But I never believe me."  
@@ -219,9 +229,9 @@ You are your word. Trust, not money, is the currency of business and life. Take 
 ## On effort
 
 <!--
-+ x@signulll -- i’m not lazy, i just don’t want to hit my brain’s token limit for the day.
+-- x\@signulll] * i’m not lazy, i just don’t want to hit my brain’s token limit for the day.
 
-- Chesterfield told his son in a 1754 letter that laziness is suicide by proxy, because by killing time you’re killing yourself.
++ Chesterfield told his son in a 1754 letter that laziness is suicide by proxy, because by killing time you’re killing yourself.
 -->
 
 > *"The superior man is modest in his speech but exceeds in his actions."  
@@ -248,6 +258,10 @@ Without commitment, you’ll never start. Without consistency, you’ll never fi
 -- Henry Rollins [1961]*
 
 ### On agency
+
+<!--
+> *"The smallest deed is better than the grandest intention."  -- John Burroughs*
+-->
 
 > *"The most difficult is the decision to act, the rest is just tenacity."  
 -- Amelia Earhart [1897]*
@@ -283,10 +297,13 @@ Offer precise help («I can drop a lasagna at 14:00») instead of vague offers (
 > *"There was a gun to my head. The gun was, I didn’t want to be in an assisted living home, watching TV all day, waiting to die. Every day I wake up with that gun to my head. Every day I live."  
 -- x@jonmorrow*
 
-### On discipline
+### On persistence and discipline
 
 <!--
-"Discipline is the bridge between goals and accomplishment." -- Jim Rohn 1930]
+> *"Discipline is the bridge between goals and accomplishment."  -- Jim Rohn [1930]*
+> *"Every exceptional person I know is dangerously consistent"  -- Leila Hormozi*
+
+-- x\@signulll] * obsession is consistency without promise.
 -->
 
 > *"The distance between dreams and reality is called discipline."  
@@ -341,8 +358,11 @@ Often our productivity struggles stem not from lack of efficiency, but from lack
 ### On humility and pride
 
 <!--
-- I roamed as a kid. Always respectful to people and places we were at. Now, kids are so badly mannered and have zero respect for people’s things — If I don’t respect him, I’ll disrespect him. Nothing in between..
-- Never joke with your sources of income.
+-- x\@libriscent] * You can’t humble someone who didn’t get their confidence from compliments.
+-- x\@nithya_shrii] * 5 reasons people secretly lose respect for you: • You explain too much • You forgive too fast • You stay too available • You tolerate disrespect • You never leave
+
++ I roamed as a kid. Always respectful to people and places we were at. Now, kids are so badly mannered and have zero respect for people’s things — If I don’t respect him, I’ll disrespect him. Nothing in between..
++ Never joke with your sources of income.
 -->
 
 > *"Humility is mostly about being very honest about how much you owe to luck."  
@@ -456,7 +476,7 @@ Play the cards you are dealt. And sometimes you’ll draw bad ones. Gratitude is
 > *"Never ruin an apology with an excuse."  
 -- Benjamin Franklin [1706]*
 
-How to apologise? Quickly, specifically, sincerely.
+How to apologize? Quickly, specifically, sincerely.
 
 > *"That which we are capable of feeling, we are capable of saying."  
 -- Miguel de Cervantes [1547]*

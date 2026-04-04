@@ -3,16 +3,32 @@
 ## On hierarchy
 
 <!--
+#q["I wish someone had told me tattoos are a class distinction." \-- x\@lapislagoons]
+#q["Fico tão tristinha quando um feio acha que tem chances comigo." \-- x\@wherewhay1] #i2("@wherewhay1 [x] ")
+
+> *"I lived so carefully, thinking someone was watching. But the stage was empty, the audience never came."  -- Osamu Dazai*
 > *"If you can smile when things go wrong, you have someone in mind to blame.*
 
-- How he carries himself is how he will be treated. A man with supreme confidence and self-assurance will be treated like one.
-- if you don’t like something, just take away its only power: your attention.
-- in any hierarchy there are zealots
-- No one cares about you until you win. No one is ever ignoring you, everyone is focused on their goals, and you should be doing the same.
-- People don’t fly business class just for the seat. They do it to not have to spend 12 hours with normies. The more money you make the more you realize the barriers to luxury are not just for comfort. But for seperation.
-- People like to feel in control. if we try them to get them do something, people feel disempowered. if they feel that somebody is deciding for them they say no when they would be happy to go along.
-- people respect who they can’t disrespect. 
-- Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.
+-- x\@kejca] * Charlie Munger: "Riches, in a modern civilization, are a relative thing. It is status that we want. It isn’t that we need more beans [to eat]." "The trouble with reaching for status is that the bottom [99%] is always going to contain exactly 99% of the people — no matter how hard we work or how much we succeed."
+-- x\@signulll] * the grass is always greener when you’re in the desert.
+-- x\@strongmanguide] * Noise tries to replace substance and fails fast. Real status never announces itself. Let results speak and stay quiet.
+-- x\@yohami] * If you’re using someone else’s response to measure your dominance, you’re submissive. To their feedback.
+
++ Alphas turn to others for advice on how to achieve the life they want. Betas turn to others to be told what life they should want to live. 
++ The alpha sees the beta as a child. In the age of social media and mass communication Beta males are constantly reminded of their lesser positions. Even the most well-meaning, prosocial Alpha’s presence is a reminder of Beta male inadequacies. The way the world evolved you can’t be an average guy anymore. Girls only consider the best.
++ Always keep quiet and smile often as a man. You don’t need to talk too much or explain. All you need is a smile, few words in soft tone, nice smell, look fresh with nice haircut and look clean. Even big men will respect you. Dress nice, lift heavy, smell good, and talk slowly. Don’t ask me why..
++ Average chick with 1k simps thinks she’s royalty.
++ Dominance = taking more space.
++ You want to make yourself as physically attractive as possible because that will help you see all the beauty in the world.
++ Vivemos a vida a tentar provar aos outros que estamos certos e a nós mesmos que os outros estão errados.
++ How he carries himself is how he will be treated. A man with supreme confidence and self-assurance will be treated like one.
++ if you don’t like something, just take away its only power: your attention.
++ in any hierarchy there are zealots
++ No one cares about you until you win. No one is ever ignoring you, everyone is focused on their goals, and you should be doing the same.
++ People don’t fly business class just for the seat. They do it to not have to spend 12 hours with normies. The more money you make the more you realize the barriers to luxury are not just for comfort. But for separation.
++ People like to feel in control. if we try them to get them do something, people feel disempowered. if they feel that somebody is deciding for them they say no when they would be happy to go along.
++ people respect who they can’t disrespect. 
++ Weak managers believe if an employee becomes irreplaceable, they have become expendable. Keeping employees dispensable is more important than keeping skilled talent. Their actions aren’t random or stupid.
 -->
 
 > *"If you want to know who controls you, look at who you are not allowed to criticize." (...)  
@@ -104,17 +120,22 @@ Only comedians can speak truth without consequences. Don’t bow to gatekeepers,
 ## On opponents
 
 <!--
+> *"Don’t hate the player, hate the game." -- Thomas Jefferson*
+> *"I knew he would hit the brakes, because he is married and has two children. I don’t."  -- Fernando Alonso?
 > *"Só os mais corajosos conseguem fazer a paz."  -- Trump*
 
-- Be willing to side with the minority.
-- Find cassandras to stop catastrophes. The «Cassandras» are experts in their field. These people are data driven.
-- i fear not the man who’s read ten thousand books, but the man who’s read the book ten thousand times.
-- Nietszche says to measure one’s strength by the number of parasites one can support.
-- surpass a gatekeeper: i’m x, i know your situation and how is the way i can make it the most confortable (safe) for you.
-- The wicked don’t listen. When you shame a good man for a small infraction, he feels guilty. He tries to do better. When you shame a genuinely bad man, he doesn’t care. He views you with contempt because you do. Shaming the incorrigible is futile. Pointless.
-- understand the difference of an adversary and an enemy to not accumulate enemys.
-- When narratives begin to shift and the once good guys are labelled as bad it’s not surprising they fight back. They’ll point to criticisms as exaggerations. Their faults as misunderstandings.
-- your competition isn’t other people. Your competition is your proscrastination. Your ego. The unhealthy food you’re consuming, the knowledge you neglect. The negative behaviour you’re nurturing & your lack of creativity. Compete against that.
+-- x\@lichthauch] * The man who says he has no enemies has nothing anyone wants
+-- x\@robertgreene] * Understand: people will constantly attack you in life. One of their main weapons will be to instill in you doubts about yourself."
+
++ Be willing to side with the minority.
++ Find cassandras to stop catastrophes. The «Cassandras» are experts in their field. These people are data driven.
++ i fear not the man who’s read ten thousand books, but the man who’s read the book ten thousand times.
++ Nietszche says to measure one’s strength by the number of parasites one can support.
++ surpass a gatekeeper: i’m x, i know your situation and how is the way i can make it the most confortable (safe) for you.
++ The wicked don’t listen. When you shame a good man for a small infraction, he feels guilty. He tries to do better. When you shame a genuinely bad man, he doesn’t care. He views you with contempt because you do. Shaming the incorrigible is futile. Pointless.
++ understand the difference of an adversary and an enemy to not accumulate enemys.
++ When narratives begin to shift and the once good guys are labelled as bad it’s not surprising they fight back. They’ll point to criticisms as exaggerations. Their faults as misunderstandings.
++ your competition isn’t other people. Your competition is your proscrastination. Your ego. The unhealthy food you’re consuming, the knowledge you neglect. The negative behaviour you’re nurturing & your lack of creativity. Compete against that.
 -->
 
 > *"Fools and wise folk are alike harmless. It is the half-wise and the half-foolish, who are the most dangerous."  
@@ -149,9 +170,11 @@ The toughest competition is a good-enough competitor. Easy opponents are often j
 > *"Beware the fury of a patient man."  
 -- John Dryden [1631]*
 
-> *"I don’t like that man. I must get to know him better." (...)  
-"The best way to destroy an enemy is to make him a friend."  
+> *"The best way to destroy an enemy is to make him a friend."  
 -- Abraham Lincoln [1809]*
+
+> *"The strongest of all warriors are these two: time and patience."  
+-- Leo Tolstoy [1828]*
 
 > *"If you don’t like a person, it’s because they remind you of something you don’t like about yourself."  
 -- Sigmund Freud [1856]*
@@ -191,7 +214,7 @@ The toughest competition is a good-enough competitor. Easy opponents are often j
 -- Kevin Kelly [1952]*
 
 > *"Put all the meat in the barbecue."  
--- Jorge Jesus {popularised} [1954]*
+-- Jorge Jesus {popularized} [1954]*
 
 > *"Average players want to be left alone. Good players want to be coached. Great players want to be told the truth."  
 -- Doc Rivers [1961]*
@@ -202,15 +225,18 @@ The toughest competition is a good-enough competitor. Easy opponents are often j
 ### On allies
 
 <!--
-- Your biggest supporters will be strangers, and your biggest critics will be people you know.
-- if you find someone smarter than you, don’t compete. Work together.
-- Buy from your community. Sell to outsiders.
+-- x\@aimeeterese] * Women don’t have allies, that’s the category error at the heart of this. Women evolved to compete as individuals against other women (for the best mates & for resources for our children) , whereas men compete in groups, against men from other tribes.Their groups contain a hierarchy, they’re cognisant of their rank within it, keenly aware of varying levels of capability of different members of their team, willing and able to mentor less experienced peers/subordinates, always cooperating and collaborating in an orderly fashion.Women literally did not evolve any such skill set, because we don’t have any use for other women in the major endeavours we undertake. Instead we pretend everyone is equal, and that we don’t compete, then we  ruthlessly compete in a surreptitious not overt fashion, this is what we do best, that way we minimise exposure to open violence  & risk of retaliation.
+-- x\@unmodernmanbot] * People don’t betray you out of malice, they betray you out of self-preservation. When survival collides with loyalty, loyalty dies first. Understand this and you’ll stop being shocked by human behavior.
+
++ Your biggest supporters will be strangers, and your biggest critics will be people you know.
++ if you find someone smarter than you, don’t compete. Work together.
++ Buy from your community. Sell to outsiders.
 -->
 
 > *"Competition is the law of the jungle, but cooperation is the law of the civilization."  
 -- Peter Kropotkin [1842]*
 
-The human strenght is the ability to cooperate. But careful, a follower is not always a fan.
+The human strength is the ability to cooperate. But careful, a follower is not always a fan.
 
 > *"United we are rock, divided we are sand." (...)  
 "Hungry dogs are never loyal." (...)  
@@ -219,6 +245,9 @@ The human strenght is the ability to cooperate. But careful, a follower is not a
 
 > *"A friend to all is a friend to none."  
 -- Aristotle [-384]*
+
+> *"Don’t depend too much on anyone in this world because even your own shadow leaves you when you are in darkness."  
+-- Ibn Taymiyyah [1263]*
 
 > *"Friendships change. Trust the friends of today as if they will be enemies tomorrow, and that of the worst kind. As this happens in reality, let it happen in your precaution."  
 -- Balthasar Gracian [1601]*
@@ -371,8 +400,17 @@ Use «we» and mean it—take responsibility. Bring options to the table. it’s
 <!--
 > *"Se você tem um talento, use-o de toda maneira possível. Não o acumule. Não o use como esmola. Gaste-o abundantemente como um milionário decidido a ir à falência."  -- Brendan Behan [1923]*
 
-- You discover your true intelligence once you start acting instead of overthinking.
-- IQ is like speed of running. If you run in a wrong direction, it will not help you.
+-- x\@gerrysays] * El precio de un IQ alto es el aislamiento.
+-- x\@hitchslap1] * One way to spot high IQ people is they’re always miles ahead in the conversation. They already know what you’re thinking after only a few words. I notice this pattern often.
+-- x\@lichthauch] * The smartest man in the room is usually the most fragile and God designed it this way
+-- x\@nntaleb] * 3- There must be loss of memory from filtering; you get more information/entropy as you age, so needs to eliminate some. Intelligence is about what you decide to eliminate.
+-- x\@pmddomingos] * You + AI = Genius
+-- x\@redatheart0] * Psyops are IQ tests
+-- x\@transkatgirl] * hot take: most of the reason why the average person seems really stupid is because of a difference between what they prioritize vs what you prioritize rather than actual intelligence
+-- x\@yacinemtb] * some of you guys sound like LLMs and the terrifying thing is that you're not. you're flesh and bone. your mind is just that predictable. you say things that you think that you should say. not things that you actually mean. fuck
+
++ You discover your true intelligence once you start acting instead of overthinking.
++ IQ is like speed of running. If you run in a wrong direction, it will not help you.
 -->
 
 > *"Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius, and a lot of courage, to move in the opposite direction."  
@@ -473,11 +511,21 @@ Intelligence is a spectrum, your dog is intelligent also.
 ### On wealth
 
 <!--
-- Money loves speed. Wealth loves time. Poverty loves indecision.
-- Wealth is the slave of the wise man and master of the fool.
-- «I made my millions by brewing my own coffee at home.» -- Said no one ever. If you want to achieve wealth: you need to create, not save.
-- people don’t get rich because of intelligence. Most people who get rich in business are usually insanely self-disciplined. Self-discipline is the real metric for succes
-- Never worship money, but always avoid people who hate money. They hate competence. They have a distorted view of reality. They are losers. Never associate with losers... or you’ll become one.
+> *"Wealth is the number of things one can do without."  -- Dostoevsky*
+
+-- x\@auren] * the status symbol used to be a Ferrari. now it’s a fourth child.
+-- x\@lilly7862] * Most people don’t want money. They want relief. Relief from stress. Relief from asking parents. Relief from checking bank apps before buying food. Money is just the tool. Peace is the real goal.
+-- x\@naval] * Wealth is the ability to make things happen.
+-- x\@navalismhq] * Guard your time. Forget the money.
+-- x\@sull1vannolan] * If you have close fulfilling relationships and autonomy over your own time you’ve made it in almost every way that matters
+
++ The trick is not to play zero sum games. This is what I have been saying the whole time. Go create value for others and don’t worry about the returns. If you create more value than you consume, you are welcome in any well operating community. Not infinite, not always needs more, just more than you consume.  -- geohot
++ Money needs to be a journey, not a destination. It has no intrinsic value. Actually changing the world is what has value. Coolness has value. You buying the same dumb crap everyone else buys isn’t cool.  -- geohot
++ Money loves speed. Wealth loves time. Poverty loves indecision.
++ Wealth is the slave of the wise man and master of the fool.
++ «I made my millions by brewing my own coffee at home.» -- Said no one ever. If you want to achieve wealth: you need to create, not save.
++ people don’t get rich because of intelligence. Most people who get rich in business are usually insanely self-disciplined. Self-discipline is the real metric for succes
++ Never worship money, but always avoid people who hate money. They hate competence. They have a distorted view of reality. They are losers. Never associate with losers... or you’ll become one.
 -->
 
 > *"To be wealthy, accumulate all those things that money can’t buy." (...)  
@@ -552,7 +600,10 @@ Money problems are self-confidence problems.
 #### How to get wealthy without luck
 
 <!--
-- I don’t waste time with unpriced listings.
+-- x\@tailopez] * First rule of making money, if you’re overly shy you’re going to be annihilated and die poor.
+
++ I don’t waste time with unpriced listings.
++ You thought you had uniquely identified a market opportunity, only to realize it’s a known inefficiency that’s nearly impossible to exploit.
 -->
 
 > *"You don’t get rich by spending your time to save money; you get rich by saving your time to make money."  
@@ -596,14 +647,23 @@ Being broke is hard. Becoming rich is hard. Choose your hard.
 #### On money management
 
 <!--
-- Salary is for expenses. Equity is wealth. Invest in yourself and stop renting your time. Be an owner.
-- It’s crazy to think the entire real estate market is propped up by what is essentially the entire middle class being 100x long.
-- inflation = printing money.
-- Stock buybacks are effectively same as dividends.
-- entrepreneurship vs investment — 2 different mentalities.
-- auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
-- analise fundamental e técnica no poker como nas accoes. Crashes are typical of complex systems.
-- why do you want to invest? to make excitement or to make money?
+#q["making an extra \$10k is easier trying to save \$10k. The sooner you understand that, the sooner your life will improve." \-- Elon Musk \[1971\]] #i2[[1971] MUSK, Elon (us/za) ]
+
+> *"What caused [my] financial success was not extreme ability. I have a good mind, but I'm way short of a prodigy. And I've had results in life that are prodigious. And that came from tricks. I just learned a few basic tricks." "One – I invert all the time."  -- Charlie Munger*
+
+-- x\@tsardav] * economics 101: overpaying for an item doesn’t increase the value. 
+-- x\@veiledjoy] * The ability to save and hold money (even hoard) and know when and when not to spend is so important in having a stable life. Those who feel better spending their money on slop will not get as far as those that enjoy simply looking at their fat bank account, knowing that the more money you have, the less you even want to buy.
+-- x\@wisdomtldr] * Cryptocurrencies are the currencies of globalism.
+-- x\@wisdomtldr] * Everything is a market. …and always has been.
+
++ Salary is for expenses. Equity is wealth. Invest in yourself and stop renting your time. Be an owner.
++ It’s crazy to think the entire real estate market is propped up by what is essentially the entire middle class being 100x long.
++ inflation = printing money.
++ Stock buybacks are effectively same as dividends.
++ entrepreneurship vs investment — 2 different mentalities.
++ auctions ao contrario! vendo por 40mil. o q venderes dai para cima 50% é para ti!
++ analise fundamental e técnica no poker como nas accoes. Crashes are typical of complex systems.
++ why do you want to invest? to make excitement or to make money?
 -->
 
 > *"I succeeded because I have a long attention span. (...)  
@@ -717,7 +777,7 @@ People claim they want fame to impact the world; often what they crave is peer a
 ### On beauty and style
 
 <!--
-- taste may be an instinct for honest signals
++ taste may be an instinct for honest signals
 -->
 
 > *"If cats looked like frogs we’d realize what nasty, cruel little bastards they are. Style. That’s what people remember."  
@@ -755,20 +815,29 @@ Beauty grabs attention. Personality grabs the heart. A truly beautiful person al
 ### On lifestyle
 
 <!--
-+ x@Cobratate -- A sad generation who’s obsessed with taking happy pictures.
 > *"If you are having too much fun, too much happiness, then something must be wrong as you ’ought’ to be doing more serious stuff. These ideas probably come from our family and other sources. We are raised with these pre-conceived ideas that imprison us." -- Pook*
 > *"Television has proved that people will look at anything rather than each other."  -- Ann Landers*
 > *"TV is chewing gum for the eyes."  -- Frank Lloyd Wright*
 > *"Where you live — what city, what country — has more impact on your well being than any other factor. Where you live is one of the few things in your life you can choose and change."*
 
-- never before has a generation so diligently recorded themselves accomplishing so little.
-- As a man, never stay at home all day. Go out, make friends, and create new connections. A man’s job is to face the world, take risks, and embrace difficulties.
-- you have 16 waking hours per day to chip away at your infinite queues. But your bandwith is mostly fixed. Fools burn themselves out in pursuit of perpetual overclocking. unsustainable output is waste.
-- I much prefer the riches I had — anonymity, freedom, simplicity — to those they have today — technology driven constant connectedness, ultra convenient (but awful) food, instant entertainment. It’s the difference between a vigorous independent youth and one scheduled and managed by the predominant culture. I prefer the former.
-- If you’re from a poor background, entertainment is your enemy. That sh!t will keep you poor.
-- some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
-- watching sports is «by definition» NPC behavior
-- what’s your adrenaline type? velocidade ou fronteira do conhecido.
+-- x\@bishara] * there are two warriors inside my head. the first wants to go off-grid for life. the second wants to learn and contribute to the most cutting edge technology on the face of the earth. both warriors are fighting all day everyday.
+-- x\@Cobratate] * A sad generation who’s obsessed with taking happy pictures.
+-- x\@itslilyszabo] * we’re in chiang mai and my husband and i joke about how we’re living out the American dream. our kids have that 90s lifestyle — neighbor kids ring the doorbell and invite them to play. my husband bills $7000/mo online while i stay at home (w/ nanny & maid) and our lives are lush.
+-- x\@johannesmkx] * In my 30s, I discovered I found greater life satisfaction in being poor and reading a lot of books than in working a job without intellectual simulation.
+-- x\@pmddomingos] * Don’t just use AI; reimagine your life with it.
+-- x\@reecebrah] * Bartending is the best job to have when you’re 18-22 You’ll develop really high level social skills Most likely you’ll get with some waitresses
+-- x\@thejayalto] * social media killed the hobby
+-- x\@yourprimepath] * If the neighborhood is loud, it’s full of low IQ people. You can always judge a place by its noise levels. Harsh truth.
+
++ As a man, never stay at home all day. Go out, make friends, and create new connections. A man’s job is to face the world, take risks, and embrace difficulties.
++ I much prefer the riches I had — anonymity, freedom, simplicity — to those they have today — technology driven constant connectedness, ultra convenient (but awful) food, instant entertainment. It’s the difference between a vigorous independent youth and one scheduled and managed by the predominant culture. I prefer the former.
++ If you’re from a poor background, entertainment is your enemy. That sh!t will keep you poor.
++ never before has a generation so diligently recorded themselves accomplishing so little.
++ roofless summer is a vibe. Literally all you need nowadays is a car and a gym membership... especially if you’re somewhere sunny and warm...
++ some people want a big house, a fast car and lots of money. some people want a tiny cabin in the woods away from those kinds of people.
++ watching sports is «by definition» NPC behavior
++ what’s your adrenaline type? velocidade ou fronteira do conhecido.
++ you have 16 waking hours per day to chip away at your infinite queues. But your bandwidth is mostly fixed. Fools burn themselves out in pursuit of perpetual overclocking. unsustainable output is waste.
 -->
 
 > *"I think I’m greedy, but I’m not greedy for money, I think that can be a burden, I’m greedy for an exciting life."  
@@ -846,7 +915,8 @@ Build businesses using the heuristic: «maximize my vacation time.» You’ll of
 "No routine. I’m famously unscheduled." (...)  
 "You should be too busy to do coffee, while still keeping an uncluttered calendar." (...)  
 "Develop strategic incompetence — people won’t ask you to do things you hate to do if you’re bad at them." (...)  
-"Outgrow bosses, landlords, and roommates."  
+"Outgrow bosses, landlords, and roommates." (...)  
+"Spend your time in the company of geniuses, sages, children and books."  
 -- Naval Ravikant [1974]*
 
 > *"If someone offered you a billion dollars with the only catch being that you’d have a pretty bad cold for the rest of your life, would you take it? Definite no for me and, I’d guess, for many of you. Really highlights how much more important health is than everything else."  
@@ -884,6 +954,11 @@ Traveling is getting under the skin of a place. Think less about money optimizat
 -- x@nikitabier*
 
 ### On success
+
+<!--
+-- x\1@javocadosss] * the more life experience I gain, the more realized the three ingredients to luck are: -good parents -a healthy brain -courage
+-- x\@0xleegenz] * At birth, success is being alive. At age 3, success is not pooping your pants. At age 10, success is having friends. At age 16, success is having a driver’s license. At age 20, success is having sex. At age 30, success is having money.. At age 40, success is having money. At age 55, success is having sex. At age 70, success is having a driver’s license. At age 75, success is having friends. At age 80, success is not pooping your pants. At age 90, success is being alive. We all start somewhere and finish where we start, time is the real success so use it wise
+-->
 
 > *"Success doesn’t come to you. You go to it."  
 -- Marva Collins [1936]*

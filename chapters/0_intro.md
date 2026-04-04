@@ -40,6 +40,11 @@ Your job here on earth is to make a few life decisions extremely well, and the r
 
 ### On happiness
 
+<!--
+-- x\@iterintellectus] * the secret to happiness is stupid simple: lower cortisol. for women, that means hugs, attention, and feeling safe. for men, that means a quest, solvable stress, and sex. basically, everything your grandparents already knew.
++ happiness are static snapshots of equilibrium moments in a always changing world.
+-->
+
 > *"Happiness is when what you think, what you say, and what you do are in harmony."  
 -- Mahatma Gandhi [1869]*
 
@@ -141,7 +146,14 @@ Truly happy people stay quiet and private. Busy people are happier, they have no
 <!--
 > *"A vida é a constante oscilação entre a ânsia de ter e o tédio de possuir."  -- Arthur Schopenhauer [1788]*
 > *"I can think, I can wait and I can fast."  -- (buddha) Siddahrta Gautama [-564]*
-- chi sei? sono l’evoluzione di tutti i miei errori.
+> *"Most older, successful people will tell you that their life was best when they lived it unapologetically, on their own terms."  -- Naval Ravikant*
+
+-- x\@bqmbulu] * "There must be something like the opposite of suicide, whereby a person radically and abruptly decides to start living"
+-- x\@buridansridge] * Clarity often arrives like an internal rug pull. Suddenly, you see everything you needed to - but through a lens that has always existed, just opaquely in the background - latent, not absent. This "mist-clearing" feeling is a subtle internal reframe. The constructs that once felt incomplete were just waiting for this precise lens shift. Even if you've consciously tried to explore countless reframes, the subconscious sometimes hides the one you need - not because you've never glanced over it, but because it has yet to be fully picked up. There's a sacredness to the timing of things. Existence withholds clarity just long enough for wisdom to be born through partial blindness. You begin to appreciate the value of foolishness - it almost carries a strange kind of dignity, maybe even a quiet genius - something increasingly rare as you move through life. When truth comes, welcome it with courage - let it land violently, let it crack through the remnants of illusion you once half-willingly held - for only then can you pass through, completely and with finality.If you are of high truth preference, you inherently know that the wound aches for the blade - final truths are acts of spiritual mercy.
+-- x\@rumilyrics] * Have you noticed, every time you level up, you lose something. A habit, a friendship, a version of yourself, it’s not loss, it’s you evolving.
+-- x\@signulll] * your chatgpt history is your unfiltered cognition, the stuff you wouldn’t even tweet. your browsing history is your raw curiosity trail. your photos are frozen intimacy & accidental self portraiture. your messages are emotional telemetry. your mail is the transactional skeleton of your life. your calendar is the architecture of your past & future. your location history is where you actually go vs. where you say you go. your notes are a private brain dump, unpolished truths. once ai understands all of these at scale, it will unlock the most spiritual experience of your life. like an existential journey into the inner most *you*.
+
++ chi sei? sono l’evoluzione di tutti i miei errori.
 -->
 
 > *"You are the combination of your habits and the people who you spend the most time with."  
@@ -199,6 +211,9 @@ Cancel your pity party, no one is coming to save you. Take total ownership of ev
 
 <!--
 > *"I’d woke up early and I took a long time getting ready to exist."  -- Fernando Pessoa [1888]*
+> *"You have a real life if and only if you do not compete with anyone in any of your pursuits." -- Nassim Taleb*
+
+-- x\@naval] * If you stop moving for long enough, you will be forced to confront the essential emptiness of life.
 -->
 
 > *"In order to live free and happily, you must sacrifice boredom. It is not always an easy sacrifice."  

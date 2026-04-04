@@ -21,7 +21,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
-## Chapter I - SELF
+## BOOK I - BECOMING
 
 *1.1 - On foundations*
 - [On autonomy](/chapters/1-1_self_foundation.md#on-autonomy)
@@ -45,9 +45,8 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On wisdom](/chapters/1-2_self_growth.md#on-wisdom)
 	- [On mastery](/chapters/1-2_self_growth.md#on-mastery)
 - [On education](/chapters/1-2_self_growth.md#on-education)
-- [On reading](/chapters/1-2_self_growth.md#on-reading)
-	- [On classics](/chapters/1-2_self_growth.md#on-classics)
-- [On writing](/chapters/1-2_self_growth.md#on-writing)
+	- [On reading](/chapters/1-2_self_growth.md#on-reading)
+	- [On writing](/chapters/1-2_self_growth.md#on-writing)
 - [On habits and systems](/chapters/1-2_self_growth.md#on-habits-and-systems)
 	- [How to change habits?](/chapters/1-2_self_growth.md#How-to-change-habits)
 
@@ -83,7 +82,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
-## Chapter II - relation
+## BOOK II - RELATING
 
 *2.1 - On cooperation*
 - [On communication](/chapters/2-1_relation_cooperation.md#on-communication)
@@ -91,7 +90,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 	- [On public speaking](/chapters/2-1_relation_cooperation.md#on-public-speaking)
 - [On networking](/chapters/2-1_relation_cooperation.md#on-networking)
 	- [How to network?](/chapters/2-1_relation_cooperation.md#how-to-network)
-	- [How to prepare an elevator pitch?](/chapters/2-1_relation_cooperation.md#how-to-prepare-an-elevator-pitch)
+	- [How to sell yourself](/chapters/2-1_relation_cooperation.md#how-to-sell-yourself)
 - [On business and entrepreneurship](/chapters/2-1_relation_cooperation.md#on-business-and-entrepreneurship)
 - [On selling, negotiation and price](/chapters/2-1_relation_cooperation.md#on-selling-negotiation-and-price)
 	- [On negotiation](/chapters/2-1_relation_cooperation.md#on-negotiation)
@@ -110,7 +109,6 @@ Principles on difficult subjects / Concise answers to difficult questions
 	- [On hiring](/chapters/2-1_relation_cooperation.md#on-hiring)
 - [On relationships](/chapters/2-1_relation_cooperation.md#on-relationships)
 - [On family and friends](/chapters/2-1_relation_cooperation.md#on-family-and-friends)
-	- [How to curate your friends?](/chapters/2-1_relation_cooperation.md#how-to-curate-your-friends)
 - [On lovers](/chapters/2-1_relation_cooperation.md#on-lovers)
 	- [What women value in men?](/chapters/2-1_relation_cooperation.md#what-women-value-in-men)
 	- [What men value in women?](/chapters/2-1_relation_cooperation.md#what-men-value-in-women)
@@ -167,7 +165,7 @@ Principles on difficult subjects / Concise answers to difficult questions
 
 
 
-## Chapter III - ACTION
+## BOOK III - DOING
 
 *3.1 - On preparation*
 - [On creativity](/chapters/3-1_action_preparation.md#on-creativity)
@@ -190,7 +188,6 @@ Principles on difficult subjects / Concise answers to difficult questions
 - [On luck and risk](/chapters/3-2_action_execution.md#on-luck-and-risk)
 - [On control](/chapters/3-2_action_execution.md#on-control)
 - [On balance](/chapters/3-2_action_execution.md#on-balance)
-	- [How to balance an imbalance](/chapters/3-2_action_execution.md#how-to-balance-an-imbalance)
 - [On change and adapting](/chapters/3-2_action_execution.md#on-change-and-adapting)
 	- [How to change](/chapters/3-2_action_execution.md#how-to-change)
 - [On getting advantage](/chapters/3-2_action_execution.md#on-getting-advantage)

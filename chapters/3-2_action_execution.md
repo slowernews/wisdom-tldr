@@ -6,19 +6,20 @@
 > *"Many fail to finish, but many more fail to start. The hardest work in any work is to start. You can’t finish until you start, so get good at starting."*
 > *"The cold water doesn’t get warmer if you jump late." 
 > *"When you are stuck or overwhelmed, focus on the smallest possible thing that moves your project forward."*
-
-- Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
-- If something compounds at 1% a day, it will be 37 times better in a year. If something loses 1% a day, it will be 0.03% of what it was in a year. I know it’s hard to quantify. It’s impossible. But the direction is what is important. It will all shake out in the end. This is the path to improvement any area of life.
-- jogar c o baralho todo / jogar com um subset
-- monk mode -> no communication during mornings, only deep work -> meetings afternoon
-- Research is not doing something. Knowledge is never the issue, action is.
-- The dumbest thing smart people do: Overthink. The smartest thing dumb people do: Act.
-- The key take-aways from the Pyramid Principle at McKinsey were: Start with the answer first. Group and summarize your supporting arguments. Logically order your supporting ideas. Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, «Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.»
-- The more «goal oriented» is the task, the more a potential 10x programmer
-- The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present _exactly_3 reasons: Your argument gets their attention and is memorable. You are forced to choose the 3 most important reasons. You sound more structured, confident and decisive when you speak.
-- you always throw out your first pancake — primeiro milho é para os pardais
+> *"Opportunities multiply as they are seized."  -- Sun Tzu*
 > *"Brooks’ Law: Adding manpower to a late software project makes it later.*
 > *"For all of the most important things, the timing always sucks. Waiting for a good time to quit your job? The stars will never align and the traffic lights of life will never all be green at the same time. The universe doesn’t conspire against you, but it doesn’t go out of its way to line up all the pins either. Conditions are never perfect. «Someday» is a disease that will take your dreams to the grave with you. Pro and con lists are just as bad. If it’s important to you and you want to do it «eventually,» just do it and correct course along the way."  -- Tim Ferriss*
+
++ Enter action with boldness. Play the ball before it plays you. Waiting for troubles to come to you will only multiply them and give them a deadly momentum.
++ If something compounds at 1% a day, it will be 37 times better in a year. If something loses 1% a day, it will be 0.03% of what it was in a year. I know it’s hard to quantify. It’s impossible. But the direction is what is important. It will all shake out in the end. This is the path to improvement any area of life.
++ jogar c o baralho todo / jogar com um subset
++ monk mode -> no communication during mornings, only deep work -> meetings afternoon
++ Research is not doing something. Knowledge is never the issue, action is.
++ The dumbest thing smart people do: Overthink. The smartest thing dumb people do: Act.
++ The key take-aways from the Pyramid Principle at McKinsey were: Start with the answer first. Group and summarize your supporting arguments. Logically order your supporting ideas. Then, for each supporting idea or argument, break that further into more ideas or arguments until you have formed a pyramid. The Pyramid Principle teaches that, «Ideas at any level in the pyramid must always be summaries of the ideas grouped below them.»
++ The more «goal oriented» is the task, the more a potential 10x programmer
++ The Rule of 3. Whenever you’re trying to persuade a senior person to do something, always present _exactly_3 reasons: Your argument gets their attention and is memorable. You are forced to choose the 3 most important reasons. You sound more structured, confident and decisive when you speak.
++ you always throw out your first pancake — primeiro milho é para os pardais
 -->
 
 > *"A year from now, you will wish you had started today."  
@@ -100,10 +101,13 @@ Stop making resolutions and start making something. Time is the most precious th
 ### On timing and patience
 
 <!--
-+ x@shl -- Thinking before you speak is a skill
-#q["Patience is bitter, but its fruit is sweet."-- Aristotle $  -384  $]
+#q["Patience is bitter, but its fruit is sweet." \-- Aristotle \[-384\]]
 
-- Always leave the party early. Show class. Don’t be the clingy friend that spends the night. Don’t be the needy one who asks what’s next. Leave before it’s too late. Leave at the peak. Be the peak.
+> *"Idleness is fatal only to the mediocre."  -- Albert Camus, Happy Death*
+
+-- x\@shl] * Thinking before you speak is a skill
+
++ Always leave the party early. Show class. Don’t be the clingy friend that spends the night. Don’t be the needy one who asks what’s next. Leave before it’s too late. Leave at the peak. Be the peak.
 -->
 
 > *"Half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough."  
@@ -160,6 +164,9 @@ Only fools rush in. Committing too quickly costs maneuverability.
 ## On speed and direction
 
 <!--
+-- x\@pmddomingos] * While others pick the low-hanging fruit, build a ladder.
+-- x\@shl] * Speed is a skill 
+
 > *"Moving in a direction opposite to what we are doing right now where we are not successful will guarantee success."*
 - Most successful people I’ve met are not that smart. They just move fast, take risks and work a lot.
 -->
@@ -171,7 +178,7 @@ Direction is more important than velocity.
 
 Even if we can’t choose the starting point, we can often choose the direction. When possible, position yourself for victory by bringing the target closer. Location beats quantity so trade space for time.
 
-> *"Choose the neighbour before choosing the house."  
+> *"Choose the neighbor before choosing the house."  
 -- vox populi*
 
 > *"What’s well begun is half done."  
@@ -203,16 +210,20 @@ Even if we can’t choose the starting point, we can often choose the direction.
 ## On focus and priorities
 
 <!--
-> *"Nearly every complex solution to a programming problem that I have looked at carefully has turned out to be wrong."  -- Brent Welch*
-> *"The essential thing is to work in a state of mind that approaches prayer."  
 > *"A complex system that works is invariably found to have evolved from a simple system that works."*
+> *"Nearly every complex solution to a programming problem that I have looked at carefully has turned out to be wrong."  -- Brent Welch*
+> *"The essential thing is to work in a state of mind that approaches prayer."
 
-- if it is important to you you’ll find a way, if not you’ll find an excuse.
-- If you are absolutely where you want to be, doing what you want to be doing, your attention will not wander.
-- pessoas hj em dia querem ser especialistas de tudo.
-- priorities are like arms. if you think you have more than a couple, you’re either lying or crazy.
-- Until it’s done tell none.
-- you will never reach your destination if you stop and throw stones at every dog that barks.
+-- x\@nntaleb] * "Nitpicking is the unmistakable mark of cluelessness."
+-- x\@signulll] * universe rewards focus but punishes attachment.
+
++ It’s not about doing more. It’s about being more aligned.
++ if it is important to you you’ll find a way, if not you’ll find an excuse.
++ If you are absolutely where you want to be, doing what you want to be doing, your attention will not wander.
++ pessoas hj em dia querem ser especialistas de tudo.
++ priorities are like arms. if you think you have more than a couple, you’re either lying or crazy.
++ Until it’s done tell none.
++ you will never reach your destination if you stop and throw stones at every dog that barks.
 -->
 
 > *"A woodpecker can tap twenty times on a thousand trees and get nowhere, but stay busy. Or he can tap twenty-thousand times on one tree and get dinner."  
@@ -282,18 +293,20 @@ Focusing is an art. Time is not the limit, attention is. Busy means out of contr
 
 <!--
 > *"The greatest muscle you can build is urgency. Decrease the time between having an idea and getting it done. Everything changes."  -- x@codie_sanchez*
-+ x@naval -- Q: What is overrated? A: “Hard work is really overrated. How hard you work matters a lot less in the modern economy. Q: What is underrated? A: Judgment. Judgment is underrated.
 
-- 6 months of focus and hard work can put you 5 years ahead in life.
-- Focus on adaptability not effectiveness
-- how to say no? I’m busy. Is a excuse for not doing something we don’t feel like doing.
-- If you’re not turning off part of your audience, then you’re not going to be fascinating,» she says; «you’re not going to be memorable."*	
-- maker days and manager days
-- parkinson’s law — if you have all day to do a job it will probably take you the whole day but if you only have two hours you will find a way of doing it in two hours. Give tasks a deadline.
-- Strategic laziness as a leverage point.
-- taking care of yourself is productivity
-- work is a queue of queues. trying hard is not the key to success. this not mean that you don’t put your best effort.
-try to hit 10% of your followers instead of trying to hit all of them at the same time.
+-- x\@naval] * You think you’re being productive but no, actually you’re just busy.
+-- x\@naval] * Q: What is overrated? A: “Hard work is really overrated. How hard you work matters a lot less in the modern economy. Q: What is underrated? A: Judgment. Judgment is underrated.
+
++ 6 months of focus and hard work can put you 5 years ahead in life.
++ Focus on adaptability not effectiveness
++ how to say no? I’m busy. Is a excuse for not doing something we don’t feel like doing.
++ If you’re not turning off part of your audience, then you’re not going to be fascinating,» she says; «you’re not going to be memorable."*	
++ maker days and manager days
++ parkinson’s law — if you have all day to do a job it will probably take you the whole day but if you only have two hours you will find a way of doing it in two hours. Give tasks a deadline.
++ Strategic laziness as a leverage point.
++ taking care of yourself is productivity
++ work is a queue of queues. trying hard is not the key to success. this not mean that you don’t put your best effort.
++ try to hit 10% of your followers instead of trying to hit all of them at the same time.
 -->
 
 > *"As few as you can, as many as you must."  
@@ -344,6 +357,9 @@ Protect your time like money. Guard real work hours and use early morning focus.
 
 <!--
 > *"I naufraghi prima o poi finiscono per incontrarsi."  -- M. Vázquez Montalban*
+
+-- x\@lichthauch] * God gives you talents not so you can bury them in humility but so you can compound them into weapons against the dark
+-- x\@signulll] * i have zero desire to play anything that’s a «numbers» game. it’s just not my thing. if i don’t have any insight/arbitrage/advantage, i just never feel like playing. it’s like writing a brute force algorithm, just feels pretty fucking icky. i.e. brute forcing seems like an absolute insult to the problem.
 -->
 
 > *"If you live long enough, most people will get what they deserve."  
@@ -446,12 +462,13 @@ Risk is everything you left over and didn’t thought about.
 ## On control
 <!--
 > *"They say Trump is out of control, but he’s not. He’s just out of their control."  -- Tucker Carlson*
-+ x@skylarromines -- Never correct anyone who’s wrong unless you’re being paid to do it. Watch quality of life improve.
 
-- Não se pode fazer colecção de tudo.
-- focus on what doesnt change
-- never let the things you can’t do distract from the things you can.
-- we can define entropy as a measure of the disorder of the universe. 
+-- x\@skylarromines] * Never correct anyone who’s wrong unless you’re being paid to do it. Watch quality of life improve.
+
++ Não se pode fazer colecção de tudo.
++ focus on what doesn’t change
++ never let the things you can’t do distract from the things you can.
++ we can define entropy as a measure of the disorder of the universe. 
 -->
 
 > *"You can lead a horse to water but you can’t make him drink."  
@@ -493,9 +510,10 @@ Control what you can: your inputs, your circle, your focus, your problems. Ignor
 ## On balance
 
 <!--
-- alguem mais loose q tu é um maluco, mais tight é um nhónhó. somos a medida de tudo
-Don’t make your job your whole life, or your art your sole income.
-#q["Balance is not something you find, it’s something you create."-- Jana Kingsford [unknown]
+#q["Balance is not something you find, it’s something you create."-- Jana Kingsford []
+
++ alguem mais loose q tu é um maluco, mais tight é um nhónhó. somos a medida de tudo
++ Don’t make your job your whole life, or your art your sole income.
 -->
 
 > *"Everything should be made as simple as possible, but not simpler."  
@@ -504,6 +522,8 @@ Don’t make your job your whole life, or your art your sole income.
 Life is a balancing act. Most things are not binary.
 
 The dose makes the poison: excess turns good into bad. The hardest skill is knowing when to stop. Balance isn’t equal time in every area of your life either, it’s steady progress in health, wealth, relationships, and growth.
+
+_How to balance an imbalance?_ Overcompensate. Many people draw their deepest passion from the very thing they once struggled with.
 
 > *"Where there is too much, something is missing." (...)  
 "Sunshine all the time makes a desert."  
@@ -521,6 +541,9 @@ The dose makes the poison: excess turns good into bad. The hardest skill is know
 > *"Everything in moderation, including moderation."  
 -- Oscar Wilde [1854]*
 
+> *"An abnormal reaction to an abnormal situation is normal behaviour."  
+-- Victor Frankl [1905]*
+
 > *"Do not go past the mark you aimed for; in victory, learn when to stop."  
 -- Robert Greene [1959]*
 
@@ -528,13 +551,6 @@ The dose makes the poison: excess turns good into bad. The hardest skill is know
 "Don’t settle and don’t struggle. Life is what flows in between." (...)  
 "You get paid for being right first, and to be first, you can’t wait for consensus."  
 -- Naval Ravikant [1974]*
-
-### How to balance an imbalance?
-
-> *"An abnormal reaction to an abnormal situation is normal behaviour."  
--- Victor Frankl [1905]*
-
-Overcompensate. Many people draw their deepest passion from the very thing they once struggled with.
 
 
 
@@ -544,17 +560,19 @@ Overcompensate. Many people draw their deepest passion from the very thing they 
 ## On change and adapting
 
 <!--
-+ x@shl -- You can’t change someone. All you can do is understand them.
-+ x@omanueljoaquim -- Quem não generaliza, cai sempre nas provas anedóticas. Não é um erro lógico, é sobrevivência.
-+ @Rapahelz -- Behaviors that are rewarded in the zoo are suicidal in the jungle.
 > *"Don’t readily ascribe to malice what can be more easily ascribed to incompetence."  -- James Akre*
+> *"What works on a small scale almost never expands to large scale."  -- Nassim Taleb*
 
-- when there is a problem there is an oportunity
-- grow also feels like loss
-- Inertia is why a car does not stop the moment the brakes are applied.
-- next shot is more important than last mistake.
-- regrets are especially painful when you abandon a previous plan and feel like you have to run in the other direction twice as fast to make up for lost time.
-- when you hit a wrong note, it’s the next note that makes it good or bad.
+-- x\@omanueljoaquim] * Quem não generaliza, cai sempre nas provas anedóticas. Não é um erro lógico, é sobrevivência.
+-- x\@rapahelz] * Behaviors that are rewarded in the zoo are suicidal in the jungle.
+-- x\@shl] * You can’t change someone. All you can do is understand them.
+
++ when there is a problem there is an opportunity
++ grow also feels like loss
++ Inertia is why a car does not stop the moment the brakes are applied.
++ next shot is more important than last mistake.
++ regrets are especially painful when you abandon a previous plan and feel like you have to run in the other direction twice as fast to make up for lost time.
++ when you hit a wrong note, it’s the next note that makes it good or bad.
 -->
 
 > *"Your life is tetris. Stop playing it like chess."  
@@ -678,12 +696,15 @@ There are limits to change: willpower and attention are finite. But in complex s
 ## On getting advantage
 
 <!--
-+ x@codie_sanchez -- applying force vs removing obstacles. when you apply force you can identify obstacles.
-- Changing the subject. Hallmark of the loser
-- failing causes: group decisions / decide based on how sucessful others are deciding / asymetry of risk-reward / overdiversificaton / inertia
-- What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint. Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
-- What’s your advantage: informational, analytical, or behavioral?	
-- You must play by your rules, funnel your weird stuff to give you some advantage.
+> *"The secret to life is weak competition.” “How do you beat Bobby Fischer? You play him at any game except chess."  -- Warren Buffett*
+
+-- x\@codie_sanchez] * applying force vs removing obstacles. when you apply force you can identify obstacles.
+
++ Changing the subject. Hallmark of the loser
++ failing causes: group decisions / decide based on how successful others are deciding / asymmetry of risk-reward / overdiversificaton / inertia
++ What works at a small scale (say, a Utopian community), loses its effectiveness as it scales. Everything has a breakpoint. Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the Utopian goal of To each according to his need, from each according to his ability had the effect of expanding everyone’s needs and shrinking their ability, aided by envy and reciprocation effects.
++ What’s your advantage: informational, analytical, or behavioral?	
++ You must play by your rules, funnel your weird stuff to give you some advantage.
 -->
 
 > *"Never interrupt your enemy when he is making a mistake."  
@@ -733,12 +754,15 @@ An army of robots is freely available — it’s just packed in data centers for
 ### On charming
 
 <!--
-- Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.
-- Never trust a person who hangs out with the same people that they talk bad about.
-- People only get defensive if what you’re saying about them is true.
-- the best way to get someone’s attention is to stop giving them yours.
-- the good reason and the real reason.
-- When someone can’t use logic to make you care about the same things they care about, they resort to name-calling: sociopath, soulless, etc. But recall: misplaced empathy is why the west is falling. -- Diane Yap
+-- x\@talebwisdom] * "It is as hard to fake indifference when you are interested as it is to fake interest when you are indifferent."
+-- x\@wisdomtldr] * Every word is the tip of an iceberg. Some are random, others unreliable, but most hold truth if you interpret them wisely.
+
++ Decisions are made based on memory. There are 3 routes: reflex, habits or goals. Influence their memories and you can influence their decisions.
++ Never trust a person who hangs out with the same people that they talk bad about.
++ People only get defensive if what you’re saying about them is true.
++ the best way to get someone’s attention is to stop giving them yours.
++ the good reason and the real reason.
++ When someone can’t use logic to make you care about the same things they care about, they resort to name-calling: sociopath, soulless, etc. But recall: misplaced empathy is why the west is falling. -- Diane Yap
 -->
 
 > *"To combat an adversary, become their friend."  
@@ -801,8 +825,8 @@ People’s need for validation and recognition is the easiest weakness to exploi
 <!--
 > *"Yo no escucho lo que dice la gente, solo observo lo que hacen. El comportamiento nunca miente"  -- Winston Churchill [1874]*
 
-- Acusa-os sempre daquilo que tu fazes
-- always remember... rumors are carried by haters, spread by fools, and accepted by idiots.
++ Acusa-os sempre daquilo que tu fazes
++ always remember... rumors are carried by haters, spread by fools, and accepted by idiots.
 -->
 
 > *"Appear weak when you are strong and strong when you are weak."  
@@ -882,7 +906,7 @@ Appear weak when strong, strong when weak. If we play by the rules too strictly,
 ### On mirroring
 
 <!--
-"Start by being warm, pleasant, & generous w/every person you meet; but if someone tries to exercise power over you, exercise power over him; & if he messes w/you, remember to keep messing w/him long after he has forgotten about it".  Silver Rule of Fat Tony in #SkinInTheGame"
++ "Start by being warm, pleasant, & generous w/every person you meet; but if someone tries to exercise power over you, exercise power over him; & if he messes w/you, remember to keep messing w/him long after he has forgotten about it".  Silver Rule of Fat Tony in #SkinInTheGame"
 -->
 
 > *"Disarm and infuriate with the mirror effect."  
@@ -907,7 +931,7 @@ Our ancestors survived by sharing food and skills in networks of mutual obligati
 ### On defeating status quo
 
 <!--
-- we are fighting a trillion dollar propaganda machine with memes.
++ we are fighting a trillion dollar propaganda machine with memes.
 -->
 
 > *"To successfully change a status quo maintained by a minority you only need to unite the majority. How? Make a non-violent revolution: low risk will make more people to participate."  
@@ -984,12 +1008,12 @@ Going halfway is a waste. Before starting anything, figure out how to finish it.
 ### On winning
 
 <!--
-- quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
-- tecnically win or fundamentally win
-- sportification of our culture. resistance doesn’t imply competition.
-- vencedores focam na vitoria. perdedores focam nos vencedores.
-- Suckers try to win arguments, nonsuckers try to win.
-- «He said no way, I said way.»
++ quem ganha a maioria dos duelos normalmente ganha o jogo. micro e o macro -- sergio conceição
++ tecnically win or fundamentally win
++ sportification of our culture. resistance doesn’t imply competition.
++ vencedores focam na vitoria. perdedores focam nos vencedores.
++ Suckers try to win arguments, nonsuckers try to win.
++ «He said no way, I said way.»
 -->
 
 > *"Maintain reserves. A man should not employ all his capacity and power at once and on every occasion. Even in knowledge there should be a rearguard, so that your resources are doubled. One must always have something to resort to when there is fear of a defeat."  
@@ -1052,9 +1076,13 @@ It’s not just about winning, the way you win sets up the next round. Winning i
 ### On quitting and surrendering
 
 <!--
-- Don’t take it personally, most people who are constantly angry are just sleep-deprived, love-deprived, or purpose-deprived.
-- nem todos os problemas se resolvem c o tempo. ha jogos q so se ganha não jogando. guerra decidida pelos velhos e sofrida pelos jovens
-- you only get disapointed because you had wrong opinion about someone-something. there’s no finishing line. motinvation is what happens when you’re not afraid. you reject yourself with your explantaion of what happened.
+-- x\@akibu_isa] * Finishing every last grain of rice on the plate even when you're stuffed, then quietly scraping the pot 'just in case' someone wants seconds later. That silent panic when someone casually throws away half a loaf of bread still hits different. Poverty doesn't leave; it just learns to whisper.
+-- x\@amachreebomate] * Extreme Resourcefulness. People who grew up in poor families don't call a repairman. They become the repairman. They fix the sink, they sew the button, they figure out how to fix everything . They have this 'I’ll figure it out myself' energy because, growing up, help wasn't something you could afford. It’s not just a habit. it’s a superpower of self-reliance. If you see someone who treats everything they own with extreme care, they likely remember a time when they couldn't replace it.
+-- x\@redatheart0] * Tragedy is when they kill their soul instead of their ego
+
++ Don’t take it personally, most people who are constantly angry are just sleep-deprived, love-deprived, or purpose-deprived.
++ nem todos os problemas se resolvem c o tempo. ha jogos q so se ganha não jogando. guerra decidida pelos velhos e sofrida pelos jovens
++ you only get disapointed because you had wrong opinion about someone-something. there’s no finishing line. motinvation is what happens when you’re not afraid. you reject yourself with your explantaion of what happened.
 -->
 
 > *"It only hurts when you don’t have time to prepare for the fall."  
@@ -1100,7 +1128,7 @@ Accept loss. Surrender conceals great power: lull the enemy into complacency, ga
 ### On forgiveness and revenge
 
 <!--
-- Good kids who do one thing wrong were punished worse than Kids who were always acting up. In fact recently ’good behaviour’ from problem kids is rewarded, but nothing for the kids who aren’t a problem. Sums up society in a way.
++ Good kids who do one thing wrong were punished worse than Kids who were always acting up. In fact recently ’good behaviour’ from problem kids is rewarded, but nothing for the kids who aren’t a problem. Sums up society in a way.
 -->
 
 > *"The only way out of the labyrinth of suffering is to forgive."  
